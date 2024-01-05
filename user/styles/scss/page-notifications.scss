@@ -1,0 +1,688 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.page-notifications-5fb {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .component-6-variant2-q8y {
+    position: relative;
+    flex-shrink: 0;
+    width: 148.2rem;
+    height: 14.1rem;
+
+    .rectangle-1-9vM {
+      height: 13.2rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #4682a9;
+      width: 144rem;
+    }
+    .component-3-component-2-variant2-tsw {
+      background-color: #ffffff;
+      box-sizing: border-box;
+      height: 5.6rem;
+      top: 4.3rem;
+      left: 17.6rem;
+      border-radius: 0.5rem;
+      padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+      width: 44.2rem;
+      position: absolute;
+
+      .frame-zRB {
+        width: 2.2295rem;
+        height: 2.8565rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .component-4-KTT {
+      position: absolute;
+      left: 89.45rem;
+      top: 9.9rem;
+      display: flex;
+      align-items: flex-start;
+      width: 52.85rem;
+      height: 2.7rem;
+
+      .home-F6D {
+        font-size: 2rem;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 1.9rem;
+        text-align: center;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+      }
+      .notifications-m4Z {
+        white-space: nowrap;
+        text-align: center;
+        font-size: 2rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        margin-right: 2.8rem;
+        font-weight: 400;
+        color: #000000;
+        flex-shrink: 0;
+      }
+      .jobs-Ujf {
+        margin: 0.1rem 2.85rem 0rem 0rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 400;
+        color: #000000;
+        flex-shrink: 0;
+      }
+      .my-network-bpH {
+        text-align: center;
+        font-weight: 400;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 1.3rem;
+        font-size: 2rem;
+        line-height: 1.2125;
+        color: #000000;
+      }
+      .messaging-vbf {
+        margin-top: 0.2rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 2rem;
+        color: #000000;
+        white-space: nowrap;
+      }
+    }
+    .icon-taskbar-f3T {
+      position: absolute;
+      left: 89.1rem;
+      top: 1.4rem;
+      display: flex;
+      align-items: flex-end;
+      width: 51.6rem;
+      height: 7.3375rem;
+
+      .icon-home-agD {
+        flex-shrink: 0;
+        margin: 0rem 3.9rem 0.9rem 0rem;
+        width: 6.9rem;
+        height: 6.0375rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .icon-bell-gjF {
+        height: 6.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 4.2rem 0.038rem 0rem;
+        width: 6.9rem;
+      }
+      .icon-briefcase-CxV {
+        width: 6.9086rem;
+        height: 6.9rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 2.691rem 0.438rem 0rem;
+      }
+      .icon-people-jBj {
+        margin: 0rem 6.309rem 0.038rem 0rem;
+        width: 6.8914rem;
+        height: 6.9rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .icon-chat-TNd {
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 6.9rem;
+        height: 6.0375rem;
+        cursor: pointer;
+        object-fit: contain;
+      }
+    }
+    .profile-bDw {
+      height: 2.5rem;
+      left: 5.5rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      width: 6.1rem;
+      top: 9.9rem;
+      text-align: center;
+      font-size: 2rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      position: absolute;
+    }
+    .image-2-VaD {
+      vertical-align: top;
+      width: 6.5rem;
+      height: 6.4rem;
+      position: absolute;
+      left: 5.3rem;
+      top: 3rem;
+      object-fit: cover;
+    }
+    .profile-oau {
+      text-align: center;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 6.1rem;
+      position: absolute;
+      left: 5.5rem;
+      line-height: 1.2125;
+      color: #000000;
+      height: 2.5rem;
+      top: 9.9rem;
+      font-size: 2rem;
+    }
+    .image-15-sqf {
+      cursor: pointer;
+      position: absolute;
+      left: 5.3rem;
+      top: 3rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 6.5rem;
+      height: 6.4rem;
+    }
+  }
+  .auto-group-e6h3-ydo {
+    height: 88.3rem;
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+
+    .auto-group-1zpm-7zu {
+      height: 21.8rem;
+      position: absolute;
+      left: 6.3rem;
+      top: 0.8rem;
+      display: flex;
+      align-items: flex-end;
+      width: 131.05rem;
+
+      .auto-group-ftuj-SnH {
+        width: 28.2rem;
+        height: calc(100% - 7.4rem);
+        background-color: #213555;
+        border-radius: 1.5rem;
+        flex-shrink: 0;
+        margin: 2.6rem 4.1rem 4.8rem 0rem;
+        box-sizing: border-box;
+        padding: 1.6rem 2.65rem;
+
+        .manage-your-notification-kY5 {
+          font-family: Inter, 'Source Sans Pro';
+          max-width: 15.5rem;
+          text-align: center;
+          font-size: 2.5rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #ffffff;
+        }
+      }
+      .auto-group-kfvp-GWR {
+        margin-right: 7.65rem;
+        width: 57.9rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .frame-1-c4V {
+          background-color: #4682a9;
+          border-radius: 2rem;
+          margin: 0rem 0.5rem 3.6rem 0rem;
+          display: flex;
+          width: calc(100% - 0.5rem);
+          height: 8.7rem;
+          overflow: hidden;
+          position: relative;
+          align-items: center;
+          box-sizing: border-box;
+          padding: 1.4rem 35.02rem 1.5rem 2.1rem;
+
+          .auto-group-c9qf-uJV {
+            height: calc(100% - 1.6rem);
+            font-family: Inter, 'Source Sans Pro';
+            justify-content: center;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            display: flex;
+            margin: 0.8rem 3.443rem 0.8rem 0rem;
+            color: #ffffff;
+            border-radius: 2rem;
+            width: 5.3573rem;
+            line-height: 1.2125;
+            white-space: nowrap;
+            align-items: center;
+            border: solid 0.2rem #000000;
+            box-sizing: border-box;
+          }
+          .auto-group-mhsb-9Tj {
+            line-height: 1.2125;
+            color: #ffffff;
+            font-size: 1.4rem;
+            white-space: nowrap;
+            justify-content: center;
+            border: solid 0.2rem #000000;
+            box-sizing: border-box;
+            border-radius: 2rem;
+            flex-shrink: 0;
+            width: 11.48rem;
+            font-weight: 400;
+            align-items: center;
+            text-align: center;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+            height: 100%;
+          }
+        }
+        .group-DyP {
+          border: solid 0.2rem #000000;
+          border-radius: 3rem;
+          box-sizing: border-box;
+          padding: 0.6rem 1.8rem 0.7rem 0.4rem;
+          width: 100%;
+          height: 9.5rem;
+          display: flex;
+          align-items: center;
+
+          .auto-group-snnq-kTX {
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+            margin-right: 0.9rem;
+            width: 9.5rem;
+
+            .rectangle-VR7 {
+              left: 0.9rem;
+              top: 0.7rem;
+              border: solid 0.2rem #000000;
+              box-sizing: border-box;
+              border-radius: 2rem;
+              width: 7rem;
+              height: 7rem;
+              position: absolute;
+            }
+            .download-1-QHB {
+              vertical-align: top;
+              border-radius: 6.8rem;
+              width: 9.5rem;
+              height: 8.2rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              object-fit: cover;
+            }
+            .download-2-8ys {
+              object-fit: cover;
+              vertical-align: top;
+              border-radius: 6.8rem;
+              width: 9.5rem;
+              height: 8.2rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+            }
+          }
+          .lowongan-kerja-jawa-timur-posted-hiring-lowongan-kerja-di-pt-panca-pilar-tangguhsurabayaada-2-posisi-yang-terse-GqB {
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0.5rem 1.2rem 0rem 0rem;
+            max-width: 42rem;
+            font-size: 2rem;
+            font-weight: 700;
+            line-height: 1.2125;
+            color: #000000;
+
+            .lowongan-kerja-jawa-timur-posted-hiring-lowongan-kerja-di-pt-panca-pilar-tangguhsurabayaada-2-posisi-yang-terse-GqB-sub-0 {
+            }
+            .lowongan-kerja-jawa-timur-posted-hiring-lowongan-kerja-di-pt-panca-pilar-tangguhsurabayaada-2-posisi-yang-terse-GqB-sub-1 {
+              font-size: 2rem;
+              font-weight: 400;
+              line-height: 1.2125;
+              color: #000000;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .vector-yFj {
+            flex-shrink: 0;
+            margin-top: 0.4rem;
+            width: 2.1rem;
+            height: 1.4rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+      }
+      .jobsearch-HnD {
+        font-family: Birthstone Bounce, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.2rem;
+        display: flex;
+        align-items: center;
+        font-size: 9rem;
+        line-height: 0.2133333418;
+        justify-content: center;
+        font-weight: 400;
+        color: #000000;
+      }
+    }
+    .vector-okZ {
+      top: 88.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 2.1rem;
+      height: 1.4rem;
+      position: absolute;
+      left: 92.6rem;
+    }
+    .website-mencari-pekerjaan-LVb {
+      font-size: 3rem;
+      font-weight: 400;
+      white-space: nowrap;
+      position: absolute;
+      height: 2rem;
+      top: 27.05rem;
+      display: flex;
+      color: #000000;
+      width: 37.4rem;
+      align-items: center;
+      justify-content: center;
+      left: 102.1rem;
+      font-family: Aref Ruqaa, 'Source Sans Pro';
+      line-height: 0.6400000254;
+    }
+    .component-3-variant2-2dK {
+      left: 38.6rem;
+      top: 23.3rem;
+      width: 57.9rem;
+      height: 9.5rem;
+      position: absolute;
+
+      .group-ZdF {
+        align-items: center;
+        border: solid 0.2rem #000000;
+        border-radius: 3rem;
+        box-sizing: border-box;
+        padding: 0.6rem 1.8rem 0.7rem 0.4rem;
+        width: 100%;
+        height: 100%;
+        display: flex;
+
+        .auto-group-jmmp-VWu {
+          margin-right: 0.9rem;
+          width: 9.5rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .rectangle-SS9 {
+            height: 7rem;
+            position: absolute;
+            left: 0.9rem;
+            top: 0.7rem;
+            border: solid 0.2rem #000000;
+            box-sizing: border-box;
+            border-radius: 2rem;
+            width: 7rem;
+          }
+          .download-1-ZWm {
+            vertical-align: top;
+            border-radius: 6.8rem;
+            width: 9.5rem;
+            height: 8.2rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            object-fit: cover;
+          }
+          .download-2-gbP {
+            position: absolute;
+            left: 0;
+            top: 0;
+            object-fit: cover;
+            vertical-align: top;
+            border-radius: 6.8rem;
+            width: 9.5rem;
+            height: 8.2rem;
+          }
+        }
+        .lowongan-kerja-jawa-tengah-posted-hiring-lowongan-kerja-di-pt-panca-warnasoloada-1-posisi-yang-tersedia-yaitu-DLR {
+          max-width: 40.3rem;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin: 0.5rem 2.9rem 0rem 0rem;
+
+          .lowongan-kerja-jawa-tengah-posted-hiring-lowongan-kerja-di-pt-panca-warnasoloada-1-posisi-yang-tersedia-yaitu-DLR-sub-0 {
+          }
+          .lowongan-kerja-jawa-tengah-posted-hiring-lowongan-kerja-di-pt-panca-warnasoloada-1-posisi-yang-tersedia-yaitu-DLR-sub-1 {
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+          }
+        }
+        .vector-Wyj {
+          margin-top: 0.4rem;
+          width: 2.1rem;
+          height: 1.4rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .component-3-variant2-SMb {
+      top: 33.5rem;
+      width: 57.9rem;
+      height: 9.5rem;
+      position: absolute;
+      left: 39rem;
+
+      .group-ysK {
+        border: solid 0.2rem #000000;
+        border-radius: 3rem;
+        box-sizing: border-box;
+        padding: 0.6rem 1.8rem 0.7rem 0.4rem;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .auto-group-nqaz-WcM {
+          margin-right: 0.9rem;
+          width: 9.5rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .rectangle-TXb {
+            border: solid 0.2rem #000000;
+            box-sizing: border-box;
+            border-radius: 2rem;
+            width: 7rem;
+            height: 7rem;
+            position: absolute;
+            left: 0.9rem;
+            top: 0.7rem;
+          }
+          .download-1-PRF {
+            width: 9.5rem;
+            height: 8.2rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            object-fit: cover;
+            vertical-align: top;
+            border-radius: 6.8rem;
+          }
+          .download-2-K41 {
+            left: 0;
+            top: 0;
+            object-fit: cover;
+            vertical-align: top;
+            border-radius: 6.8rem;
+            width: 9.5rem;
+            height: 8.2rem;
+            position: absolute;
+          }
+        }
+        .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-FCZ {
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin: 0.5rem 1.7rem 0rem 0rem;
+          max-width: 41.5rem;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          color: #000000;
+
+          .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-FCZ-sub-0 {
+          }
+          .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-FCZ-sub-1 {
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+          }
+        }
+        .vector-y25 {
+          flex-shrink: 0;
+          margin-top: 0.4rem;
+          width: 2.1rem;
+          height: 1.4rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+    }
+    .component-3-variant2-VWD {
+      width: 57.9rem;
+      height: 9.5rem;
+      position: absolute;
+      left: 38.6rem;
+      top: 43.7rem;
+
+      .group-poP {
+        box-sizing: border-box;
+        align-items: center;
+        border: solid 0.2rem #000000;
+        border-radius: 3rem;
+        padding: 0.6rem 1.8rem 0.7rem 0.4rem;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        column-gap: 1.3rem;
+
+        .auto-group-8f5p-kh3 {
+          position: relative;
+          flex-shrink: 0;
+          width: 9.5rem;
+          height: 100%;
+
+          .rectangle-7Gh {
+            width: 7rem;
+            height: 7rem;
+            position: absolute;
+            left: 0.9rem;
+            top: 0.7rem;
+            border: solid 0.2rem #000000;
+            box-sizing: border-box;
+            border-radius: 2rem;
+          }
+          .download-1-DqX {
+            left: 0;
+            top: 0;
+            object-fit: cover;
+            vertical-align: top;
+            border-radius: 6.8rem;
+            width: 9.5rem;
+            height: 8.2rem;
+            position: absolute;
+          }
+          .download-2-xo7 {
+            left: 0;
+            top: 0;
+            object-fit: cover;
+            vertical-align: top;
+            border-radius: 6.8rem;
+            width: 9.5rem;
+            height: 8.2rem;
+            position: absolute;
+          }
+        }
+        .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-uCZ {
+          font-weight: 700;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-bottom: 0.3rem;
+          max-width: 41.5rem;
+          font-size: 2rem;
+
+          .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-uCZ-sub-0 {
+          }
+          .lowongan-kerja-jawa-barat-posted-hiring-lowongan-kerja-di-pt-tiga-warna-bandungada-3-posisi-yang-terse-uCZ-sub-1 {
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+        }
+        .vector-3xy {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-top: 0.4rem;
+          width: 2.1rem;
+          height: 1.4rem;
+          object-fit: contain;
+        }
+      }
+    }
+  }
+}

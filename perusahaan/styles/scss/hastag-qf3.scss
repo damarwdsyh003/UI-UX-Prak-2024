@@ -1,0 +1,898 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.hastag-J1b {
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+
+  .component-6-variant2-S7o {
+    width: 100%;
+    height: 13.2rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom: 3.5rem;
+    box-sizing: border-box;
+    padding: 1.4rem 1.7rem 0.6rem 5.3rem;
+    background-color: #4682a9;
+
+    .auto-group-pvj1-vof {
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 1.4rem 5.8rem 0rem 0rem;
+      width: 6.5rem;
+      align-items: center;
+      display: flex;
+
+      .auto-group-fqfs-ezZ {
+        margin-bottom: 0.5rem;
+        width: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:3ca1b12fd5d3de42211f78bb83137f2f2c7657e1');
+        flex-shrink: 0;
+
+        .image-15-1aD {
+          width: 6.5rem;
+          height: 6.4rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-bo6u-7t9 {
+        margin: 0 0.2rem;
+        width: calc(100% - 0.4rem);
+        height: 2.5rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .profile-FzM {
+          top: 0;
+          font-weight: 400;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          left: 0;
+          height: 2.5rem;
+          position: absolute;
+          text-align: center;
+          font-size: 2rem;
+          color: #000000;
+          white-space: nowrap;
+          width: 6.1rem;
+        }
+        .profile-NJH {
+          width: 6.1rem;
+          top: 0;
+          text-align: center;
+          color: #000000;
+          white-space: nowrap;
+          height: 2.5rem;
+          position: absolute;
+          left: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+    }
+    .component-3-component-2-variant2-GeZ {
+      padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+      height: calc(100% - 5.6rem);
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+      margin: 2.9rem 27.3rem 2.7rem 0rem;
+      box-sizing: border-box;
+
+      .frame-Ajw {
+        width: 2.2295rem;
+        height: 2.8565rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .auto-group-277b-hE5 {
+      flex-shrink: 0;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .icon-taskbar-rMs {
+        margin-bottom: 1.1625rem;
+        display: flex;
+        align-items: flex-end;
+        flex-shrink: 0;
+
+        .icon-home-o2D {
+          margin: 0rem 3.9rem 0.9rem 0rem;
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-bell-uL9 {
+          margin: 0rem 4.2rem 0.038rem 0rem;
+          width: 6.9rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-briefcase-pxu {
+          margin: 0rem 2.691rem 0.438rem 0rem;
+          width: 6.9086rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-people-LgM {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 6.309rem 0.038rem 0rem;
+          width: 6.8914rem;
+          height: 6.9rem;
+          object-fit: contain;
+        }
+        .icon-chat-eww {
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .component-4-bcH {
+        margin-left: 0.35rem;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .home-9Nu {
+          font-size: 2rem;
+          line-height: 1.2125;
+          color: #000000;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 1.9rem;
+          text-align: center;
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .notifications-Ug5 {
+          text-align: center;
+          font-size: 2rem;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 2.8rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+        .jobs-Cry {
+          margin: 0.1rem 2.85rem 0rem 0rem;
+          font-size: 2rem;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          flex-shrink: 0;
+        }
+        .my-network-Kgh {
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-right: 1.3rem;
+          text-align: center;
+          color: #000000;
+          flex-shrink: 0;
+          font-size: 2rem;
+          line-height: 1.2125;
+        }
+        .messaging-Tnu {
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-top: 0.2rem;
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 400;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+  .auto-group-wrw1-Zqw {
+    height: 85.7rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 5.9rem;
+    width: calc(100% - 5.9rem);
+
+    .frame-2-JYd {
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      background-color: #213555;
+      box-sizing: border-box;
+      width: 40.9rem;
+      height: 100%;
+      align-items: center;
+      flex-direction: column;
+      flex-shrink: 0;
+      padding-bottom: 48.6rem;
+
+      .auto-group-rb81-qYZ {
+        box-sizing: border-box;
+        padding: 6.9rem 7.4rem 3.4rem 7.4rem;
+        width: 100%;
+        row-gap: 3.6rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .koneksi-wLh {
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+        }
+        .followers-Tpq {
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .acara-PiV {
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+        }
+        .hastag-YbP {
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+        }
+      }
+      .auto-group-jfem-VWd {
+        white-space: nowrap;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 2.4rem 7.4rem 2.1rem 7.4rem;
+        font-weight: 400;
+        line-height: 1.1199999809;
+        font-family: Acme, 'Source Sans Pro';
+        background-color: #419197;
+        width: 100%;
+        display: flex;
+        font-size: 2rem;
+        color: #000000;
+      }
+    }
+    .auto-group-teeh-BeM {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding-left: 7rem;
+      height: 100%;
+      display: flex;
+      column-gap: 6.7rem;
+      align-items: flex-start;
+
+      .auto-group-by6m-XCR {
+        width: 40rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-oiyt-sn5 {
+          margin-bottom: 3.7rem;
+          align-items: center;
+          flex-direction: column;
+          background-color: #419197;
+          box-sizing: border-box;
+          padding-top: 3.5rem;
+          width: 100%;
+          display: flex;
+          border-radius: 1.5rem;
+          flex-shrink: 0;
+
+          .auto-group-arn5-DL9 {
+            width: calc(100% - 4.8rem);
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.7rem 2.5rem;
+            box-sizing: border-box;
+            padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+
+            .vector-XLq {
+              width: 9.1rem;
+              height: 9.1rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+          }
+          .auto-group-emrw-eRT {
+            width: 100%;
+            height: 15rem;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.2rem 2.3rem 1.5rem 2.5rem;
+
+            .group-20-mky {
+              display: flex;
+              flex-direction: column;
+              border-radius: 0.5rem;
+              width: 100%;
+              height: 100%;
+              align-items: center;
+
+              .auto-group-ccht-KnV {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                box-sizing: border-box;
+                padding: 0.1rem 0rem 2.45rem 0rem;
+                width: 100%;
+
+                .anne-mariee-Fw3 {
+                  color: #ffffff;
+                  flex-shrink: 0;
+                  margin-bottom: 0.95rem;
+                  display: flex;
+                  line-height: 0.7680000305;
+                  font-family: Aoboshi One, 'Source Sans Pro';
+                  white-space: nowrap;
+                  font-size: 2.5rem;
+                  font-weight: 400;
+                }
+                .student-at-universitas-airlangga-majoring-in-informatics-enginering-aCd {
+                  flex-shrink: 0;
+                  max-width: 25rem;
+                  display: flex;
+                  font-size: 1.5rem;
+                  font-weight: 400;
+                  line-height: 1.2800000509;
+                  color: #ffffff;
+                  font-family: Aoboshi One, 'Source Sans Pro';
+                }
+              }
+              .auto-group-qvmw-shX {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: #419197;
+                border-radius: 0.5rem;
+                width: 100%;
+                box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+                font-weight: 800;
+                font-size: 1.5rem;
+                line-height: 1.4933333079;
+                color: #111111;
+                white-space: nowrap;
+                height: 2.9rem;
+                flex-shrink: 0;
+                font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              }
+            }
+          }
+        }
+        .auto-group-9c5b-VU1 {
+          padding-top: 3.5rem;
+          display: flex;
+          flex-direction: column;
+          background-color: #419197;
+          border-radius: 1.5rem;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          align-items: center;
+          width: 100%;
+
+          .auto-group-15zm-2yj {
+            position: relative;
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.4rem 2.4rem;
+            width: calc(100% - 4.7rem);
+            height: 18.1rem;
+
+            .rectangle-196-A4M {
+              width: 35.2rem;
+              height: 17.8rem;
+              position: absolute;
+              left: 0.1rem;
+              top: 0;
+              background-color: #d9d9d9;
+            }
+            .screenshot-187-1-VcR {
+              object-fit: cover;
+              vertical-align: top;
+              width: 35.3rem;
+              height: 18.1rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+            }
+            .vector-dCq {
+              position: absolute;
+              left: 13rem;
+              top: 4.3rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 9.1rem;
+              height: 9.1rem;
+            }
+          }
+          .auto-group-h1t1-m49 {
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.5rem 2.3rem 1.3rem 2.5rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .ava-garcia-HoB {
+              font-size: 2.5rem;
+              line-height: 0.7680000305;
+              color: #ffffff;
+              white-space: nowrap;
+              margin-bottom: 0.95rem;
+              display: flex;
+              flex-shrink: 0;
+              font-weight: 400;
+              font-family: Aoboshi One, 'Source Sans Pro';
+            }
+            .student-at-summit-universitymajoring-in-cognitive-science-R8h {
+              max-width: 21.8rem;
+              display: flex;
+              line-height: 1.2800000509;
+              color: #ffffff;
+              flex-shrink: 0;
+              margin-bottom: 2.45rem;
+              font-size: 1.5rem;
+              font-weight: 400;
+              font-family: Aoboshi One, 'Source Sans Pro';
+            }
+            .auto-group-ax2z-Wfw {
+              width: 100%;
+              display: flex;
+              font-size: 1.5rem;
+              font-weight: 800;
+              flex-shrink: 0;
+              white-space: nowrap;
+              justify-content: center;
+              background-color: #d9d9d9;
+              border-radius: 0.5rem;
+              height: 2.9rem;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              line-height: 1.4933333079;
+              color: #111111;
+              align-items: center;
+            }
+          }
+        }
+      }
+      .auto-group-set7-AVb {
+        width: 40rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-spz7-hVX {
+          box-sizing: border-box;
+          padding-top: 3.5rem;
+          width: 100%;
+          align-items: center;
+          background-color: #419197;
+          border-radius: 1.5rem;
+          margin-bottom: 3.7rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-xu4m-dty {
+            margin: 0rem 2.3rem 3.7rem 2.5rem;
+            box-sizing: border-box;
+            padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+            width: calc(100% - 4.8rem);
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+
+            .vector-jx1 {
+              width: 9.1rem;
+              height: 9.1rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+          }
+          .auto-group-w1kb-5ky {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.3rem 2.3rem 1.5rem 2.5rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+
+            .carlos-chris-bzD {
+              color: #ffffff;
+              white-space: nowrap;
+              display: flex;
+              font-weight: 400;
+              line-height: 0.7680000305;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-bottom: 0.95rem;
+              font-size: 2.5rem;
+            }
+            .student-at-nanyang-university-majoring-in-informatic-system-Xcy {
+              line-height: 1.2800000509;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-bottom: 2.45rem;
+              display: flex;
+              font-weight: 400;
+              max-width: 22.3rem;
+              font-size: 1.5rem;
+              color: #ffffff;
+            }
+            .auto-group-gijo-2pd {
+              align-items: center;
+              justify-content: center;
+              height: 2.9rem;
+              font-size: 1.5rem;
+              line-height: 1.4933333079;
+              white-space: nowrap;
+              color: #111111;
+              flex-shrink: 0;
+              background-color: #d9d9d9;
+              border-radius: 0.5rem;
+              width: 100%;
+              display: flex;
+              font-weight: 800;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            }
+          }
+        }
+        .auto-group-pga9-geH {
+          display: flex;
+          background-color: #419197;
+          flex-shrink: 0;
+          flex-direction: column;
+          border-radius: 1.5rem;
+          box-sizing: border-box;
+          padding-top: 3.5rem;
+          width: 100%;
+          align-items: center;
+
+          .auto-group-5bwu-EQu {
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.2rem 2.5rem;
+            width: calc(100% - 4.8rem);
+            height: 18.3rem;
+            position: relative;
+
+            .rectangle-201-ke9 {
+              background-color: #d9d9d9;
+              width: 35.2rem;
+              height: 17.8rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+            }
+            .download-1-1-u1F {
+              vertical-align: top;
+              width: 35.2rem;
+              height: 18.3rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              object-fit: cover;
+            }
+            .vector-3NM {
+              object-fit: contain;
+              vertical-align: top;
+              width: 9.1rem;
+              height: 9.1rem;
+              position: absolute;
+              left: 12.9rem;
+              top: 4.5rem;
+            }
+          }
+          .auto-group-cifw-NQd {
+            flex-direction: column;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.5rem 2.3rem 1.3rem 2.5rem;
+            width: 100%;
+            display: flex;
+
+            .noah-thomas-65j {
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 2.5rem;
+              font-weight: 400;
+              line-height: 0.7680000305;
+            }
+            .student-at-horizon-institutemajoring-in-renewable-energy-engineering-c45 {
+              margin-bottom: 1.5rem;
+              font-size: 1.5rem;
+              font-weight: 400;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              flex-shrink: 0;
+              max-width: 22.2rem;
+              display: flex;
+              line-height: 1.2800000509;
+            }
+            .auto-group-f3z7-Soo {
+              border-radius: 0.5rem;
+              width: 100%;
+              line-height: 1.4933333079;
+              white-space: nowrap;
+              background-color: #d9d9d9;
+              font-size: 1.5rem;
+              color: #111111;
+              height: 2.9rem;
+              flex-shrink: 0;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              align-items: center;
+              justify-content: center;
+              display: flex;
+              font-weight: 800;
+            }
+          }
+        }
+      }
+      .auto-group-wa5b-gCM {
+        width: 53.3rem;
+        flex-shrink: 0;
+
+        .auto-group-pwsw-EDs {
+          height: 40rem;
+          position: relative;
+          background-color: #419197;
+          border-radius: 1.5rem;
+          margin-bottom: 3.7rem;
+          width: 100%;
+
+          .rectangle-188-N5B {
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            width: 40rem;
+            height: 15rem;
+            position: absolute;
+            left: 0;
+            top: 25rem;
+          }
+          .rectangle-191-VQh {
+            width: 35.2rem;
+            height: 17.8rem;
+            position: absolute;
+            left: 2.5rem;
+            top: 3.5rem;
+            background-color: #d9d9d9;
+          }
+          .ba35f46176ae0d72daace797ede-1-qDf {
+            position: absolute;
+            left: 2.7rem;
+            top: 3.5rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 35.2rem;
+            height: 17.8rem;
+          }
+          .vector-krR {
+            top: 7.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 9.1rem;
+            height: 9.1rem;
+            position: absolute;
+            left: 15.8rem;
+          }
+          .rectangle-211-uDX {
+            top: 35.6rem;
+            background-color: #d9d9d9;
+            border-radius: 0.5rem;
+            width: 35.2rem;
+            height: 2.9rem;
+            position: absolute;
+            left: 2.6rem;
+          }
+          .olivia-smith-dQR {
+            height: 2rem;
+            position: absolute;
+            left: 2.6rem;
+            display: flex;
+            line-height: 0.7680000305;
+            width: 15rem;
+            top: 26.3rem;
+            font-size: 2.5rem;
+            font-weight: 400;
+            color: #ffffff;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .student-at-oceanview-universitymajoring-in-sustainable-development-Lpd {
+            width: 50.7rem;
+            display: flex;
+            color: #ffffff;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            line-height: 1.2800000509;
+            white-space: nowrap;
+            height: 2rem;
+            position: absolute;
+            left: 2.6rem;
+            top: 30.2rem;
+            font-size: 1.5rem;
+            font-weight: 400;
+          }
+          .accept-qWV {
+            top: 35.95rem;
+            color: #111111;
+            font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            white-space: nowrap;
+            left: 18.1rem;
+            height: 2.3rem;
+            position: absolute;
+            display: flex;
+            font-size: 1.5rem;
+            font-weight: 800;
+            line-height: 1.4933333079;
+            width: 4.5rem;
+          }
+        }
+        .auto-group-2zbk-9XB {
+          height: 40rem;
+          position: relative;
+          background-color: #419197;
+          border-radius: 1.5rem;
+          margin-left: 0.1rem;
+          width: 47rem;
+
+          .rectangle-203-tDs {
+            width: 40rem;
+            height: 15rem;
+            position: absolute;
+            left: 0;
+            top: 25rem;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+          }
+          .rectangle-206-DX3 {
+            top: 3.5rem;
+            background-color: #d9d9d9;
+            width: 35.2rem;
+            height: 17.8rem;
+            position: absolute;
+            left: 2.5rem;
+          }
+          .download-3-MNM {
+            left: 2.6rem;
+            top: 3.5rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 35rem;
+            height: 18.3rem;
+            position: absolute;
+          }
+          .vector-VDf {
+            position: absolute;
+            left: 15.8rem;
+            top: 7.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 9.1rem;
+            height: 9.1rem;
+          }
+          .rectangle-210-2jP {
+            position: absolute;
+            left: 2.5rem;
+            top: 35.8rem;
+            background-color: #d9d9d9;
+            border-radius: 0.5rem;
+            width: 35.2rem;
+            height: 2.9rem;
+          }
+          .mia-martinez-YBw {
+            top: 26.5rem;
+            font-size: 2.5rem;
+            font-weight: 400;
+            line-height: 0.7680000305;
+            color: #ffffff;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 16.2rem;
+            height: 2rem;
+            position: absolute;
+            left: 2.5rem;
+            display: flex;
+          }
+          .student-at-crestline-collegemajoring-in-virtual-reality-design-F6M {
+            color: #ffffff;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            width: 44.5rem;
+            display: flex;
+            font-weight: 400;
+            top: 30.4rem;
+            font-size: 1.5rem;
+            line-height: 1.2800000509;
+            white-space: nowrap;
+            height: 2rem;
+            position: absolute;
+            left: 2.5rem;
+          }
+          .accept-jnD {
+            width: 4.5rem;
+            height: 2.3rem;
+            top: 36.05rem;
+            display: flex;
+            font-weight: 800;
+            line-height: 1.4933333079;
+            font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            white-space: nowrap;
+            position: absolute;
+            left: 18rem;
+            font-size: 1.5rem;
+            color: #111111;
+          }
+        }
+      }
+    }
+  }
+}

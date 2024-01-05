@@ -1,0 +1,469 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.hastag-5p1 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.hastag-5p1 .auto-group-rwq5-dad {
+  width: 40.9rem;
+  height: 85.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 16.7rem;
+}
+.hastag-5p1 .auto-group-rwq5-dad .koneksi-kfF {
+  width: 6.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 8rem;
+  top: 6.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .auto-group-rwq5-dad .followers-4R3 {
+  width: 8rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 8rem;
+  top: 12.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .auto-group-rwq5-dad .frame-2-mKT {
+  box-sizing: border-box;
+  padding: 5.3rem 0rem 56.8rem 0rem;
+  width: 40.9rem;
+  height: 85.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #213555;
+}
+.hastag-5p1 .auto-group-rwq5-dad .frame-2-mKT .auto-group-eyyz-fvd {
+  box-sizing: border-box;
+  padding: 2rem 7.4rem 1.6rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.hastag-5p1 .auto-group-rwq5-dad .frame-2-mKT .auto-group-e7em-kSH {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.hastag-5p1 .auto-group-rwq5-dad .frame-2-mKT .auto-group-qg1s-3AV {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.hastag-5p1 .auto-group-rwq5-dad .frame-2-mKT .auto-group-t1k9-vEH {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB {
+  box-sizing: border-box;
+  padding: 3.6rem 4.7rem 49.3rem 3.2rem;
+  width: 84.7rem;
+  height: 84.8rem;
+  position: absolute;
+  left: 53rem;
+  top: 17.6rem;
+  overflow: hidden;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.hastag-5p1 .frame-88-DjB .group-WTP {
+  box-sizing: border-box;
+  padding: 2.7rem 3.8rem 2.5rem 2.7rem;
+  width: 100%;
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .group-WTP .desainvisual-dnu {
+  margin-right: 36.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.8959999847;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .group-WTP .auto-group-ar8v-LxD {
+  width: 19.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .auto-group-5m73-12m {
+  width: 100%;
+  height: 9.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .auto-group-5m73-12m .programmer-xTo {
+  width: 13.8rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.8959999847;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .frame-88-DjB .auto-group-5m73-12m .group-fND {
+  width: 76.8rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}
+.hastag-5p1 .frame-88-DjB .auto-group-5m73-12m .group-fND .rectangle-192-1gy {
+  width: 19.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 53.6rem;
+  top: 2.6rem;
+  background-color: #419197;
+  border-radius: 0.5rem;
+}
+.hastag-5p1 .frame-88-DjB .auto-group-5m73-12m .group-fND .delete-jss {
+  width: 5.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 60.45rem;
+  top: 3.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .frame-88-DjB .group-p8d {
+  box-sizing: border-box;
+  padding: 2.8rem 3.8rem 2.4rem 2.7rem;
+  width: 100%;
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .group-p8d .manajemen-wyw {
+  margin: 0rem 38.1rem 0.4rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.8959999847;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .frame-88-DjB .group-p8d .auto-group-2kxs-GFX {
+  width: 19.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV {
+  width: 148.2rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .rectangle-1-Tau {
+  width: 144rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #4682a9;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-3-component-2-variant2-D4H {
+  box-sizing: border-box;
+  padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+  width: 44.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 4.3rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-3-component-2-variant2-D4H .frame-uSu {
+  width: 2.2295rem;
+  height: 2.8565rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f {
+  width: 52.85rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 89.45rem;
+  top: 9.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f .home-96M {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f .notifications-s2M {
+  margin-right: 2.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f .jobs-PmP {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f .my-network-Wr1 {
+  margin-right: 1.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .component-4-q5f .messaging-fD7 {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo {
+  width: 51.6rem;
+  height: 7.3375rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo .icon-home-KoT {
+  margin: 0rem 3.9rem 0.9rem 0rem;
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo .icon-bell-eaq {
+  margin: 0rem 4.2rem 0.038rem 0rem;
+  width: 6.9rem;
+  height: 6.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo .icon-briefcase-yND {
+  margin: 0rem 2.691rem 0.438rem 0rem;
+  width: 6.9086rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo .icon-people-tVB {
+  margin: 0rem 6.309rem 0.038rem 0rem;
+  width: 6.8914rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .icon-taskbar-Puo .icon-chat-pdj {
+  width: 6.9rem;
+  height: 6.0375rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-5p1 .component-6-variant2-KzV .profile-yFj {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .component-6-variant2-KzV .image-2-VUy {
+  width: 6.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-5p1 .component-6-variant2-KzV .profile-S9K {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-5p1 .component-6-variant2-KzV .image-15-MXB {
+  width: 6.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}

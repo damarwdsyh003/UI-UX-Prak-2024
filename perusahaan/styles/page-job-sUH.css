@@ -1,0 +1,338 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.page-job-tmT {
+  box-sizing: border-box;
+  padding-bottom: 10.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.page-job-tmT .rectangle-130-F6D {
+  margin-bottom: 10.1rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD {
+  margin: 0 39.5rem;
+  box-sizing: border-box;
+  padding: 2.4rem 4.9rem 4.5rem 4.8rem;
+  width: calc(100% - 79rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #4682a9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .post-a-job-JKP {
+  margin: 0rem 0.2rem 4.4rem 0rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-plcu-p2q {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-plcu-p2q .job-title-khB {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-plcu-p2q .rectangle-210-V8y {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-tmT .post-job-PiD .auto-group-plcu-p2q .mandor-qCq {
+  width: 10.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-plcu-p2q .job-title--kah {
+  width: 9.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-v1yw-5N5 {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-v1yw-5N5 .company-Rgq {
+  width: 9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-v1yw-5N5 .rectangle-211-ZY9 {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-tmT .post-job-PiD .auto-group-v1yw-5N5 .pt-build-corp-Vgh {
+  width: 20.2rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-v1yw-5N5 .company--QHs {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-tj9f-j5F {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-tj9f-j5F .job-location-5Q1 {
+  width: 12.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-tj9f-j5F .rectangle-212-p6h {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-tmT .post-job-PiD .auto-group-tj9f-j5F .surabaya-xih {
+  width: 13.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-tj9f-j5F .job-location--geh {
+  width: 13.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-fs3f-Pp1 {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 6.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-fs3f-Pp1 .jobdesk-Lz9 {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-fs3f-Pp1 .rectangle-213-fWd {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-tmT .post-job-PiD .auto-group-fs3f-Pp1 .koordinator-tukang-osj {
+  width: 27.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-fs3f-Pp1 .jobdesk--Wn9 {
+  width: 9.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-xluj-eNZ {
+  margin: 0rem 42.9rem 0.1rem 0rem;
+  width: 12.4rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .auto-group-xluj-eNZ .description-BNV {
+  width: 10.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-xluj-eNZ .description--Vty {
+  width: 12.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-tmT .post-job-PiD .auto-group-a68d-RXj {
+  margin-bottom: 7.1rem;
+  box-sizing: border-box;
+  padding: 0 0.5rem;
+  width: 100%;
+  height: 12.7rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.page-job-tmT .post-job-PiD .group-18-jYR {
+  margin: 0rem 18.6rem 0rem 18.7rem;
+  width: calc(100% - 37.3rem);
+  height: 5rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #213555;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}

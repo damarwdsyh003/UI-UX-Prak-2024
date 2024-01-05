@@ -1,0 +1,24 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 26.2rem;
+}.th-52-ixd {
+  width: 26.2rem;
+  height: 5.8rem;
+  position: relative;
+  background-size: 132.064% 189.157%;
+  background-position: -4.0132rem -2.5855rem;
+  background-image: url('../assets/th-52.png');
+}

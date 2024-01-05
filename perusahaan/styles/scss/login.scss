@@ -1,0 +1,227 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-v1b {
+  flex-direction: column;
+  padding-bottom: 25rem;
+  width: 100%;
+  position: relative;
+  display: flex;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+
+  .rectangle-130-eTP {
+    width: 100%;
+    height: 10rem;
+    background-color: #4682a9;
+    flex-shrink: 0;
+    margin-bottom: 7.4rem;
+  }
+  .auto-group-6tem-BTK {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 12.5rem 9.8rem 15.5rem 12rem;
+    width: 100%;
+    height: 60rem;
+    display: flex;
+    align-items: center;
+    background-color: #213555;
+
+    .auto-group-g1gh-J29 {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 8.3rem 16.9rem 10.75rem 0rem;
+      height: calc(100% - 19.05rem);
+      align-items: center;
+
+      .jobsearch-pFP {
+        justify-content: center;
+        line-height: 0.1280000051;
+        color: #ffffff;
+        font-family: Birthstone Bounce, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-bottom: 8.95rem;
+        align-items: center;
+        font-weight: 400;
+        flex-shrink: 0;
+        display: flex;
+        font-size: 15rem;
+      }
+      .website-mencari-pekerjaan-j7T {
+        line-height: 0.6400000254;
+        color: #ffffff;
+        margin-right: 1.7rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+        font-size: 3rem;
+        font-family: Arya, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+    .group-14-SXf {
+      box-sizing: border-box;
+      padding: 3.4rem 2.5rem 4.6rem 2.5rem;
+      width: 50rem;
+      height: 100%;
+      background-color: #4682a9;
+      border-radius: 1rem;
+      flex-shrink: 0;
+
+      .welcome-Yqb {
+        display: flex;
+        font-size: 2rem;
+        font-weight: 400;
+        line-height: 0.9600000381;
+        color: #000000;
+        font-family: Arya, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-bottom: 1.35rem;
+      }
+      .username-email-5Kj {
+        color: #000000;
+        font-family: Amiri, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-bottom: 0.35rem;
+        display: flex;
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 1.2800000509;
+      }
+      .rectangle-134-QN1 {
+        cursor: pointer;
+        border: solid 0.2rem #fbeeac;
+        box-sizing: border-box;
+        background-color: #4682a9;
+        border-radius: 0.5rem;
+        margin-bottom: 0.45rem;
+        width: 100%;
+        height: 4rem;
+      }
+      .auto-group-xoc9-KE5 {
+        margin-bottom: 0.55rem;
+        width: 5.6rem;
+        height: 2rem;
+        position: relative;
+
+        .password-TLH {
+          width: 5.6rem;
+          height: 2rem;
+          position: absolute;
+          top: 0;
+          display: flex;
+          font-size: 1.5rem;
+          white-space: nowrap;
+          left: 0;
+          font-weight: 400;
+          line-height: 1.2800000509;
+          color: #000000;
+          font-family: Amiri, 'Source Sans Pro';
+        }
+        .password-yJd {
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+          width: 5.6rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          display: flex;
+          font-size: 1.5rem;
+          line-height: 1.2800000509;
+          font-family: Amiri, 'Source Sans Pro';
+          height: 2rem;
+        }
+      }
+      .rectangle-135-V25 {
+        background-color: #4682a9;
+        border-radius: 0.5rem;
+        margin-bottom: 0.4rem;
+        width: 100%;
+        height: 4rem;
+        border: solid 0.2rem #fbeeac;
+        box-sizing: border-box;
+      }
+      .auto-group-bij7-1m7 {
+        width: 100%;
+        height: 6.9rem;
+        position: relative;
+
+        .rectangle-136-Ma5 {
+          width: 45rem;
+          height: 4rem;
+          position: absolute;
+          left: 0;
+          top: 2.9rem;
+          background-color: #fbeeac;
+          border-radius: 0.5rem;
+        }
+        .login-tpu {
+          position: absolute;
+          justify-content: center;
+          font-weight: 400;
+          font-family: Aoboshi One, 'Source Sans Pro';
+          width: 5.7rem;
+          align-items: center;
+          height: 2rem;
+          left: 19.7rem;
+          top: 3.9rem;
+          display: flex;
+          font-size: 1.7rem;
+          line-height: 1.1294118096;
+          white-space: nowrap;
+          color: #000000;
+        }
+        .register-bDX {
+          position: absolute;
+          left: 16.45rem;
+          white-space: nowrap;
+          cursor: pointer;
+          top: 0;
+          font-size: 1.2rem;
+          line-height: 1.6000000636;
+          color: #000000;
+          width: 4.7rem;
+          height: 2rem;
+          justify-content: center;
+          display: flex;
+          align-items: center;
+          font-weight: 400;
+          font-family: Aoboshi One, 'Source Sans Pro';
+        }
+        .dont-have-an-account-yet-J7w {
+          font-size: 1.5rem;
+          line-height: 1.2800000509;
+          color: #000000;
+          white-space: nowrap;
+          left: 0;
+          height: 2rem;
+          position: absolute;
+          top: 0.25rem;
+          display: flex;
+          font-weight: 400;
+          font-family: Amiri, 'Source Sans Pro';
+          width: 15.7rem;
+        }
+      }
+    }
+  }
+}

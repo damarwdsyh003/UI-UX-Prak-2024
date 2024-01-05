@@ -1,0 +1,287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.register-email-pass1-eye-UTF {
+  box-sizing: border-box;
+  padding-bottom: 21.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.register-email-pass1-eye-UTF .rectangle-130-oVX {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq {
+  box-sizing: border-box;
+  padding: 5.6rem 9.9rem 8.6rem 12rem;
+  width: 100%;
+  height: 60rem;
+  display: flex;
+  align-items: center;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .auto-group-bj5o-Ta5 {
+  margin: 15.2rem 16.8rem 17.65rem 0rem;
+  height: calc(100% - 32.85rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .auto-group-bj5o-Ta5 .jobsearch-BW5 {
+  margin-bottom: 8.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15rem;
+  font-weight: 400;
+  line-height: 0.1280000051;
+  color: #ffffff;
+  font-family: Birthstone Bounce, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .auto-group-bj5o-Ta5 .website-mencari-pekerjaan-tfP {
+  margin-right: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.6400000254;
+  color: #ffffff;
+  font-family: Arya, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj {
+  box-sizing: border-box;
+  padding: 3.287rem 2.1rem 3.338rem 2.1rem;
+  width: 50rem;
+  height: 100%;
+  background-color: #4682a9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .register-L1b {
+  margin: 0rem 0rem 0.011rem 0.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.9600000381;
+  color: #000000;
+  font-family: Arya, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-lhmx-e2H {
+  margin: 0rem 0rem 0.229rem 0.4rem;
+  box-sizing: border-box;
+  padding-top: 1.9733rem;
+  width: 14.6rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-zcnh-KeD {
+  margin-bottom: 0.2506rem;
+  width: 100%;
+  height: 9.2494rem;
+  position: relative;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-zcnh-KeD .rectangle-134-fi5 {
+  width: 45rem;
+  height: 5.725rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 3.5244rem;
+  border: solid 0.2rem #4682a9;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-zcnh-KeD .password-aa9 {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 6.1708rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-zcnh-KeD .rectangle-143-5Wu {
+  width: 45.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #4682a9;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-zcnh-KeD .jobsearchgmailcoid-nw7 {
+  width: 11.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.76;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-aur1-h2V {
+  margin-bottom: 0.0431rem;
+  width: 100%;
+  height: 4rem;
+  position: relative;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-aur1-h2V .rectangle-144-qeV {
+  width: 45.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-aur1-h2V .rectangle-145-yVo {
+  width: 45.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #4682a9;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-aur1-h2V .joblook12-6aR {
+  width: 5.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.76;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-aur1-h2V .icon-eye-off-outline-ozd {
+  width: 2.7rem;
+  height: 2.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 42.7rem;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-cpch-8n1 {
+  margin-bottom: 0.2894rem;
+  width: 100%;
+  height: 9.1569rem;
+  position: relative;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-cpch-8n1 .rectangle-135-gYd {
+  width: 45rem;
+  height: 5.725rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  border: solid 0.2rem #4682a9;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-cpch-8n1 .confirm-password-1au {
+  width: 11.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 1.9277rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-cpch-8n1 .rectangle-146-iER {
+  width: 45.8rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 5.1569rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #4682a9;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-ehyf-d6V {
+  margin: 0 0.4rem;
+  width: calc(100% - 0.8rem);
+  height: 9.9731rem;
+  position: relative;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-ehyf-d6V .rectangle-136-xPf {
+  width: 45rem;
+  height: 5.9625rem;
+  position: absolute;
+  left: 0;
+  top: 4.0106rem;
+  background-color: #fbeeac;
+  border-radius: 0.5rem;
+}
+.register-email-pass1-eye-UTF .auto-group-xpxj-wLq .group-14-Qdj .auto-group-ehyf-d6V .ok-Hgq {
+  width: 2.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 20.4rem;
+  top: 6.0503rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.1294118096;
+  color: #000000;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}

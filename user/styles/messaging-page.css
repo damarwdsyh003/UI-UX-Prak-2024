@@ -1,0 +1,970 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.messaging-page-hjb {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.messaging-page-hjb .page-home-R9o {
+  width: 144rem;
+  height: 89.9rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 12.5rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf {
+  width: 32.4rem;
+  height: 69.971rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 11.5009rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-J1B.png');
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-agu {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 9.8834rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-iHK {
+  width: 1.2rem;
+  height: 1.0496rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 13.0758rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-egm {
+  width: 1.9rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 10.8455rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-aaR {
+  width: 7.7rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 12.4198rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-XVf {
+  width: 2.8rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 12.4198rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-GTF {
+  width: 5.6rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 12.4198rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-QpM {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 17.5802rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-xL5 {
+  width: 1.2rem;
+  height: 1.0496rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 20.7726rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-WMb {
+  width: 2.7rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 18.5423rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Fa5 {
+  width: 5.1rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 18.5423rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-zGm {
+  width: 5.1rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 9rem;
+  top: 10.7985rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-LbX {
+  width: 2.7rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 20.1167rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-t7F {
+  width: 6.5rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 20.1167rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-2jF {
+  width: 2.9rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 20.1167rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Zz5 {
+  width: 32.4rem;
+  height: 7.6968rem;
+  position: absolute;
+  left: 0;
+  top: 23.5278rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-vJq {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 25.2771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-ULM {
+  width: 1.2rem;
+  height: 1.0496rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 28.4695rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-chT {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 32.9738rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-AU5 {
+  width: 3.7rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 33.9359rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-JKP {
+  width: 1.3rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 35.5103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-ee9 {
+  width: 3.4rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 35.5103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Q7X {
+  width: 8.2rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 35.5103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-MHf {
+  width: 2.8rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 35.5103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-gqj {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 40.6706rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-dFB {
+  width: 4.4rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 41.6327rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-B1o {
+  width: 2.3rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 14rem;
+  top: 41.6327rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Wpm {
+  width: 4.8rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 43.2071rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-FnM {
+  width: 3.7rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 43.2071rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Chb {
+  width: 1.4rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 18.5rem;
+  top: 43.2071rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-kj7 {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 48.3674rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-WCV {
+  width: 1.2rem;
+  height: 1.0496rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 51.5599rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-eZb {
+  width: 5rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 49.3295rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Q2y {
+  width: 2.5rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 14.6rem;
+  top: 49.3295rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Yey {
+  width: 6.3rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 50.9039rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-tyj {
+  width: 3.1rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 50.9039rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-qty {
+  width: 5rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 50.9039rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-zWy {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 56.0643rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Y2h {
+  width: 1.9rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 57.0264rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-g8u {
+  width: 5.7rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 57.0264rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-EAR {
+  width: 5.6rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 58.6007rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-aVB {
+  width: 3.2rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 15rem;
+  top: 58.6007rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-ibP {
+  width: 4.8rem;
+  height: 4.1983rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 63.7611rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-4v9 {
+  width: 1.2rem;
+  height: 1.0496rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 66.9535rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-DY9 {
+  width: 1.5rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 64.7232rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-yGR {
+  width: 4rem;
+  height: 0.8746rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 64.7232rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-vBf {
+  width: 4.9rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 66.2975rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-ff3 {
+  width: 2.9rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 14.3rem;
+  top: 66.2975rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-DAm {
+  width: 5.3rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 66.2975rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-ZVX {
+  width: 3.8rem;
+  height: 0.6997rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 66.2975rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-Ve5 {
+  width: 0;
+  height: 69.971rem;
+  position: absolute;
+  left: 32.35rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .vector-FdF {
+  width: 4.8rem;
+  height: 4.2141rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 25.2844rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .component-2-variant2-C2h {
+  box-sizing: border-box;
+  padding: 0.646rem 0.867rem 0.676rem 22.302rem;
+  width: 24.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 6.4991rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .component-2-variant2-C2h .frame-6Ny {
+  width: 1.2307rem;
+  height: 1.3772rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-uqf .jonathan-milos-QuT {
+  width: 17.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 25.6991rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-page-hjb .page-home-R9o .rectangle-29-t3w {
+  width: 63.3rem;
+  height: 57.4rem;
+  position: absolute;
+  left: 36.3rem;
+  top: 22.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.messaging-page-hjb .page-home-R9o .vector-1eM {
+  width: 96.5rem;
+  height: 55.3096rem;
+  position: absolute;
+  left: 33.5rem;
+  top: 11.5009rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-9kZ {
+  width: 64.8rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 69.9rem;
+  top: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-VpR {
+  width: 3.6rem;
+  height: 3.3361rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 12.73rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-3L9 {
+  width: 4.8rem;
+  height: 3.8629rem;
+  position: absolute;
+  left: 72rem;
+  top: 12.73rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-NtD {
+  width: 0.9rem;
+  height: 0.7901rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 15.276rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-KYZ {
+  width: 1.2rem;
+  height: 0.2634rem;
+  position: absolute;
+  left: 130.2rem;
+  top: 14.2225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-GCu {
+  width: 64.8rem;
+  height: 0;
+  position: absolute;
+  left: 69.9rem;
+  top: 17.6464rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-D89 {
+  width: 3.6rem;
+  height: 3.3361rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 28.7083rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-xbX {
+  width: 3.6rem;
+  height: 3.2483rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 56.4509rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-Wd3 {
+  width: 26.6883rem;
+  height: 9.5409rem;
+  position: absolute;
+  left: 78.3078rem;
+  top: 19.9115rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-FqX {
+  width: 10.8563rem;
+  height: 2.9038rem;
+  position: absolute;
+  left: 78.3078rem;
+  top: 55.1713rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-beV {
+  width: 26.6883rem;
+  height: 5.3927rem;
+  position: absolute;
+  left: 78.3078rem;
+  top: 48.6724rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-kXP {
+  width: 23.2203rem;
+  height: 2.9038rem;
+  position: absolute;
+  left: 78.3078rem;
+  top: 44.6625rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .group-773 {
+  width: 12.8918rem;
+  height: 2.9038rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 33.8881rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-raR {
+  width: 26.7rem;
+  height: 5.2676rem;
+  position: absolute;
+  left: 102.3rem;
+  top: 37.4876rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-oEm {
+  width: 64.8rem;
+  height: 4.3896rem;
+  position: absolute;
+  left: 69.9rem;
+  top: 61.9818rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-9Jd {
+  width: 1.5rem;
+  height: 1.1413rem;
+  position: absolute;
+  left: 130rem;
+  top: 63.5621rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-6Ds {
+  width: 5.3rem;
+  height: 0.7023rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 63.8255rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-Rmw {
+  width: 1.3rem;
+  height: 0.7023rem;
+  position: absolute;
+  left: 78.8rem;
+  top: 63.8255rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-aPw {
+  width: 3.6rem;
+  height: 0.7023rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 63.8255rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-j1w {
+  width: 64.8rem;
+  height: 0;
+  position: absolute;
+  left: 69.9rem;
+  top: 61.9818rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .tentu-selamat-pagi-semoga-harimu-menyenangkan-bagaimana-kabarmu-hari-ini-ada-rencana-menarik-apa-yang-akan-kamu-lakukan-hari-ini-5Lh {
+  width: 21.4rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 81.8rem;
+  top: 20.5rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.messaging-page-hjb .page-home-R9o .vector-jw3 {
+  width: 4.8rem;
+  height: 3.8629rem;
+  position: absolute;
+  left: 72.3rem;
+  top: 28.1815rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .vector-5k1 {
+  width: 4.8rem;
+  height: 3.8629rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 55.3974rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .page-home-R9o .jonathan-milos-2QM {
+  width: 17.3rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 81rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-page-hjb .component-6-variant2-vVj {
+  width: 148.2rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .rectangle-1-Fnu {
+  width: 144rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #4682a9;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-3-component-2-variant2-CTF {
+  box-sizing: border-box;
+  padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+  width: 44.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 4.3rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-3-component-2-variant2-CTF .frame-gNR {
+  width: 2.2295rem;
+  height: 2.8565rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T {
+  width: 52.85rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 89.45rem;
+  top: 9.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T .home-w3T {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T .notifications-Fpq {
+  margin-right: 2.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T .jobs-b81 {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T .my-network-uPb {
+  margin-right: 1.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .component-4-D7T .messaging-qY9 {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM {
+  width: 51.6rem;
+  height: 7.3375rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM .icon-home-W8V {
+  margin: 0rem 3.9rem 0.9rem 0rem;
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM .icon-bell-LNR {
+  margin: 0rem 4.2rem 0.038rem 0rem;
+  width: 6.9rem;
+  height: 6.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM .icon-briefcase-43X {
+  margin: 0rem 2.691rem 0.438rem 0rem;
+  width: 6.9086rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM .icon-people-mid {
+  margin: 0rem 6.309rem 0.038rem 0rem;
+  width: 6.8914rem;
+  height: 6.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .icon-taskbar-yeM .icon-chat-uK3 {
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.messaging-page-hjb .component-6-variant2-vVj .profile-rEH {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-page-hjb .component-6-variant2-vVj .image-2-m6M {
+  width: 6.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.messaging-page-hjb .component-6-variant2-vVj .profile-tgm {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.messaging-page-hjb .component-6-variant2-vVj .image-15-ooj {
+  width: 6.5rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}

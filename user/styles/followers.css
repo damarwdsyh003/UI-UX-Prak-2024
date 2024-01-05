@@ -1,0 +1,550 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.followers-v3F {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.followers-v3F .frame-88-Epd {
+  box-sizing: border-box;
+  padding: 3.6rem 4.7rem 49.3rem 3.2rem;
+  width: 84.7rem;
+  height: 84.8rem;
+  position: absolute;
+  left: 53rem;
+  top: 17.6rem;
+  overflow: hidden;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.followers-v3F .frame-88-Epd .group-JZb {
+  box-sizing: border-box;
+  padding: 1.3rem 2.4rem 1.2rem 1.7rem;
+  width: 100%;
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .rectangle-pXw {
+  margin-right: 0.9rem;
+  width: 7.8rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .auto-group-4k2u-YTw {
+  margin: 0rem 12.9rem 1.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .auto-group-4k2u-YTw .dewi-rizki-s-5Ts {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .auto-group-4k2u-YTw .dewirizkis-Nxm {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Actor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .auto-group-h3jb-6Ny {
+  margin: 1.3rem 2.1rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-JZb .auto-group-uc6h-iv9 {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.2rem 1.7rem;
+  width: 100%;
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .rectangle-sAm {
+  margin: 0.2rem 0.9rem 0rem 0rem;
+  width: 7.8rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .auto-group-xrem-aqs {
+  margin: 0rem 13.5rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .auto-group-xrem-aqs .damar-ihB {
+  margin-bottom: 0.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .auto-group-xrem-aqs .damarws-dp9 {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Actor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .auto-group-xypm-Zho {
+  margin: 1.5rem 2.1rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.9rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-9Em .auto-group-v6bp-SFo {
+  margin: 1.5rem 0rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.9rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.2rem 1.7rem;
+  width: 100%;
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .rectangle-cpV {
+  margin: 0.2rem 0.9rem 0rem 0rem;
+  width: 7.8rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .auto-group-jj8z-M1P {
+  margin: 0rem 17rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .auto-group-jj8z-M1P .rafif-V7b {
+  margin-bottom: 0.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .auto-group-jj8z-M1P .rafiff-D3b {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Actor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .auto-group-vsvf-wkH {
+  margin: 1.5rem 2.1rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.9rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-88-Epd .group-HXK .auto-group-81rm-R9f {
+  margin: 1.5rem 0rem 1.4rem 0rem;
+  width: 19.4rem;
+  height: calc(100% - 2.9rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Alatsi, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP {
+  width: 148.2rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.followers-v3F .component-6-variant2-FuP .rectangle-1-BHF {
+  width: 144rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #4682a9;
+}
+.followers-v3F .component-6-variant2-FuP .component-3-component-2-variant2-iHB {
+  box-sizing: border-box;
+  padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+  width: 44.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 4.3rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.followers-v3F .component-6-variant2-FuP .component-3-component-2-variant2-iHB .frame-Pu7 {
+  width: 2.2295rem;
+  height: 2.8565rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF {
+  width: 52.85rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 89.45rem;
+  top: 9.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF .home-ScV {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF .notifications-mem {
+  margin-right: 2.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF .jobs-uFB {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF .my-network-RDX {
+  margin-right: 1.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .component-4-vPF .messaging-m2V {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH {
+  width: 51.6rem;
+  height: 7.3375rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH .icon-home-d4h {
+  margin: 0rem 3.9rem 0.9rem 0rem;
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH .icon-bell-jtR {
+  margin: 0rem 4.2rem 0.038rem 0rem;
+  width: 6.9rem;
+  height: 6.9rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH .icon-briefcase-rTF {
+  margin: 0rem 2.691rem 0.438rem 0rem;
+  width: 6.9086rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH .icon-people-NgV {
+  margin: 0rem 6.309rem 0.038rem 0rem;
+  width: 6.8914rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .icon-taskbar-VUH .icon-chat-78H {
+  width: 6.9rem;
+  height: 6.0375rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.followers-v3F .component-6-variant2-FuP .profile-43X {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.followers-v3F .component-6-variant2-FuP .image-2-NK7 {
+  width: 6.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.followers-v3F .component-6-variant2-FuP .profile-hcH {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.followers-v3F .component-6-variant2-FuP .image-15-R2V {
+  width: 6.5rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.3rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.followers-v3F .frame-2-wmX {
+  box-sizing: border-box;
+  padding: 5.3rem 0rem 56.8rem 0rem;
+  width: 40.9rem;
+  height: 85.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 16.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #213555;
+}
+.followers-v3F .frame-2-wmX .auto-group-hczy-FGR {
+  box-sizing: border-box;
+  padding: 2rem 7.4rem 1.6rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-2-wmX .auto-group-gm7b-ivh {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-2-wmX .auto-group-y7rw-2Rb {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.followers-v3F .frame-2-wmX .auto-group-ftkh-iJR {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}

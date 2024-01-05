@@ -1,0 +1,1041 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.acara-AUV {
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .component-6-variant2-iF7 {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.4rem 1.7rem 0.6rem 5.3rem;
+    height: 13.2rem;
+    background-color: #4682a9;
+    margin-bottom: 3.5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    .auto-group-4mwb-1k1 {
+      margin: 1.4rem 5.8rem 0rem 0rem;
+      width: 6.5rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-k6yt-wdf {
+        background-image: url('REPLACE_IMAGE:3ca1b12fd5d3de42211f78bb83137f2f2c7657e1');
+        flex-shrink: 0;
+        margin-bottom: 0.5rem;
+        width: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+
+        .image-15-Vv5 {
+          width: 6.5rem;
+          height: 6.4rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-otz7-R33 {
+        flex-shrink: 0;
+        margin: 0 0.2rem;
+        width: calc(100% - 0.4rem);
+        height: 2.5rem;
+        position: relative;
+
+        .profile-x2y {
+          line-height: 1.2125;
+          color: #000000;
+          width: 6.1rem;
+          position: absolute;
+          top: 0;
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 400;
+          white-space: nowrap;
+          height: 2.5rem;
+          left: 0;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .profile-rPF {
+          width: 6.1rem;
+          position: absolute;
+          color: #000000;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          height: 2.5rem;
+          left: 0;
+          top: 0;
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 400;
+          white-space: nowrap;
+        }
+      }
+    }
+    .component-3-component-2-variant2-mFK {
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+      margin: 2.9rem 27.3rem 2.7rem 0rem;
+      box-sizing: border-box;
+      padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+      height: calc(100% - 5.6rem);
+      background-color: #ffffff;
+
+      .frame-FwB {
+        height: 2.8565rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.2295rem;
+      }
+    }
+    .auto-group-cbed-BZw {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .icon-taskbar-Y9b {
+        margin-bottom: 1.1625rem;
+        display: flex;
+        align-items: flex-end;
+        flex-shrink: 0;
+
+        .icon-home-HN5 {
+          margin: 0rem 3.9rem 0.9rem 0rem;
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-bell-npd {
+          margin: 0rem 4.2rem 0.038rem 0rem;
+          width: 6.9rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-briefcase-WVj {
+          margin: 0rem 2.691rem 0.438rem 0rem;
+          width: 6.9086rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-people-ERj {
+          margin: 0rem 6.309rem 0.038rem 0rem;
+          width: 6.8914rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .icon-chat-xcd {
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .component-4-uXs {
+        align-items: flex-start;
+        flex-shrink: 0;
+        margin-left: 0.35rem;
+        display: flex;
+
+        .home-49s {
+          margin-right: 1.9rem;
+          text-align: center;
+          font-size: 2rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .notifications-ynd {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 2.8rem;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+        }
+        .jobs-iVK {
+          margin: 0.1rem 2.85rem 0rem 0rem;
+          font-weight: 400;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2rem;
+          line-height: 1.2125;
+        }
+        .my-network-q49 {
+          margin-right: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          font-size: 2rem;
+          flex-shrink: 0;
+        }
+        .messaging-AMK {
+          flex-shrink: 0;
+          text-align: center;
+          line-height: 1.2125;
+          font-weight: 400;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-top: 0.2rem;
+          font-size: 2rem;
+        }
+      }
+    }
+  }
+  .auto-group-tuv7-Ucu {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 6.4rem 0rem 5.9rem;
+    width: calc(100% - 12.3rem);
+    height: 85.7rem;
+
+    .auto-group-9qnm-QFf {
+      margin-right: 6.15rem;
+      width: 40.95rem;
+      height: 100%;
+      position: relative;
+      flex-shrink: 0;
+
+      .frame-2-Ysf {
+        box-sizing: border-box;
+        width: 40.9rem;
+        height: 85.7rem;
+        overflow: hidden;
+        background-color: #213555;
+        padding: 6.9rem 7.4rem 53.6rem 7.4rem;
+        position: absolute;
+        left: 0;
+        top: 0;
+
+        .koneksi-evh {
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 3.6rem;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+        }
+        .followers-a3f {
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 9.5rem;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+        }
+        .hastag-K1F {
+          margin-bottom: 2.9rem;
+          cursor: pointer;
+          display: flex;
+          font-size: 2rem;
+          font-family: Acme, 'Source Sans Pro';
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          white-space: nowrap;
+        }
+        .accept-job-qkH {
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+        }
+      }
+      .rectangle-207-ZwB {
+        width: 40.9rem;
+        height: 6.8rem;
+        position: absolute;
+        left: 0.05rem;
+        top: 16.35rem;
+        background-color: #419197;
+      }
+      .acara-6RK {
+        height: 2.3rem;
+        top: 18.7rem;
+        font-size: 2rem;
+        font-weight: 400;
+        color: #000000;
+        font-family: Acme, 'Source Sans Pro';
+        width: 4.7rem;
+        position: absolute;
+        left: 7.4rem;
+        display: flex;
+        line-height: 1.1199999809;
+        white-space: nowrap;
+      }
+    }
+    .frame-89-o4q {
+      box-sizing: border-box;
+      height: 100%;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+      padding-top: 5.4rem;
+      width: 84.6rem;
+      position: relative;
+      align-items: center;
+
+      .auto-group-pc29-KJ5 {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 1rem 5rem 2.1rem;
+        width: calc(100% - 3.1rem);
+        height: 53.1rem;
+        display: flex;
+
+        .image-24-dpZ {
+          margin: 1.5rem 4.9rem 0rem 0rem;
+          width: 10rem;
+          height: 10rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .calendar-dark-ZTK {
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          margin-right: 4.4373rem;
+          box-sizing: border-box;
+          padding: 5.55rem 5.6rem;
+          width: 52.1627rem;
+          height: 100%;
+          background-color: #213555;
+
+          .frame-10-Vbs {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+
+            .title-3tH {
+              margin-bottom: 5.5rem;
+              width: 100%;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .previous-D25 {
+                margin-right: 12.2186rem;
+                width: 2.2627rem;
+                height: 2.2627rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .november-wyf {
+                font-weight: 600;
+                line-height: 1.2125;
+                font-family: Inter, 'Source Sans Pro';
+                flex-shrink: 0;
+                color: #ffffff;
+                white-space: nowrap;
+                margin-right: 12.2186rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 2.4rem;
+              }
+              .next-UTo {
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+                width: 2.2627rem;
+                height: 2.2627rem;
+              }
+            }
+            .dates-d5o {
+              flex-shrink: 0;
+              margin-right: 0.0627rem;
+              width: 40.9rem;
+              align-items: flex-end;
+              display: flex;
+              flex-direction: column;
+
+              .frame-9-NZB {
+                display: flex;
+                column-gap: 3.2rem;
+                align-items: center;
+                flex-shrink: 0;
+                margin-bottom: 3.1rem;
+                width: 100%;
+
+                .mo-W9b {
+                  display: flex;
+                  font-weight: 500;
+                  color: #ffffff;
+                  flex-shrink: 0;
+                  align-items: center;
+                  justify-content: center;
+                  font-size: 2.4rem;
+                  line-height: 1.2125;
+                  font-family: Inter, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+                .tu-qSm {
+                  align-items: center;
+                  justify-content: center;
+                  line-height: 1.2125;
+                  font-family: Inter, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  display: flex;
+                  font-size: 2.4rem;
+                  font-weight: 500;
+                  color: #ffffff;
+                }
+                .we-xnH {
+                  justify-content: center;
+                  font-weight: 500;
+                  line-height: 1.2125;
+                  flex-shrink: 0;
+                  display: flex;
+                  align-items: center;
+                  font-family: Inter, 'Source Sans Pro';
+                  white-space: nowrap;
+                  font-size: 2.4rem;
+                  color: #ffffff;
+                }
+                .th-79P {
+                  font-weight: 500;
+                  color: #ffffff;
+                  font-family: Inter, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  align-items: center;
+                  font-size: 2.4rem;
+                  line-height: 1.2125;
+                  white-space: nowrap;
+                  display: flex;
+                  justify-content: center;
+                }
+                .fr-TDF {
+                  color: #ffffff;
+                  font-family: Inter, 'Source Sans Pro';
+                  display: flex;
+                  font-weight: 500;
+                  line-height: 1.2125;
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  align-items: center;
+                  justify-content: center;
+                  font-size: 2.4rem;
+                }
+                .sa-oH7 {
+                  color: #ffffff;
+                  font-family: Inter, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  display: flex;
+                  justify-content: center;
+                  font-size: 2.4rem;
+                  font-weight: 500;
+                  line-height: 1.2125;
+                  align-items: center;
+                }
+                .su-kTF {
+                  font-weight: 500;
+                  flex-shrink: 0;
+                  align-items: center;
+                  justify-content: center;
+                  font-size: 2.4rem;
+                  line-height: 1.2125;
+                  color: #ffffff;
+                  font-family: Inter, 'Source Sans Pro';
+                  white-space: nowrap;
+                  display: flex;
+                }
+              }
+              .auto-group-2xer-hNV {
+                margin-right: 0.0314rem;
+                height: 27.4rem;
+                display: flex;
+                align-items: flex-start;
+                flex-shrink: 0;
+
+                .auto-group-rqp1-qDo {
+                  padding: 6.1rem 2.1rem 0rem 0rem;
+                  height: 100%;
+                  display: flex;
+                  align-items: flex-end;
+                  flex-shrink: 0;
+                  box-sizing: border-box;
+
+                  .frame-2-krZ {
+                    margin-right: 3.2rem;
+                    height: 100%;
+                    row-gap: 3.1rem;
+                    align-items: center;
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+
+                    .item-5-uDf {
+                      white-space: nowrap;
+                      justify-content: center;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      flex-shrink: 0;
+                      display: flex;
+                      align-items: center;
+                      font-size: 2.4rem;
+                    }
+                    .item-12-qND {
+                      flex-shrink: 0;
+                      align-items: center;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      line-height: 1.2125;
+                      font-family: Inter, 'Source Sans Pro';
+                      display: flex;
+                      font-weight: 400;
+                      color: #cccccc;
+                      white-space: nowrap;
+                    }
+                    .item-19-Zp1 {
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      align-items: center;
+                      font-size: 2.4rem;
+                      flex-shrink: 0;
+                      justify-content: center;
+                    }
+                    .item-26-WDT {
+                      white-space: nowrap;
+                      display: flex;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      font-weight: 400;
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      align-items: center;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                    }
+                  }
+                  .frame-3-Ev9 {
+                    flex-shrink: 0;
+                    margin-right: 3.7rem;
+                    height: 100%;
+                    row-gap: 3.1rem;
+                    align-items: center;
+                    display: flex;
+                    flex-direction: column;
+
+                    .item-6-P2M {
+                      flex-shrink: 0;
+                      align-items: center;
+                      font-size: 2.4rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      justify-content: center;
+                    }
+                    .item-13-j6D {
+                      align-items: center;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      color: #cccccc;
+                      flex-shrink: 0;
+                      display: flex;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                    .item-20-fkZ {
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      display: flex;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      align-items: center;
+                      font-weight: 400;
+                      white-space: nowrap;
+                    }
+                    .item-27-D1P {
+                      font-size: 2.4rem;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      justify-content: center;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      flex-shrink: 0;
+                      align-items: center;
+                      font-weight: 400;
+                    }
+                  }
+                  .frame-4-kX7 {
+                    height: 100%;
+                    row-gap: 3.1rem;
+                    align-items: center;
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+
+                    .item-7-Vjb {
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      font-size: 2.4rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .item-14-SPw {
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      line-height: 1.2125;
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      align-items: center;
+                      font-weight: 400;
+                      color: #cccccc;
+                      white-space: nowrap;
+                      display: flex;
+                    }
+                    .item-21-aW9 {
+                      justify-content: center;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      font-size: 2.4rem;
+                      flex-shrink: 0;
+                      align-items: center;
+                    }
+                    .item-28-Weh {
+                      flex-shrink: 0;
+                      display: flex;
+                      align-items: center;
+                      font-size: 2.4rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      justify-content: center;
+                      color: #cccccc;
+                    }
+                  }
+                }
+                .group-1-eW1 {
+                  width: 5.6rem;
+                  height: 100%;
+                  position: relative;
+                  flex-shrink: 0;
+                  margin-right: 1.7rem;
+
+                  .current-day-15f {
+                    border-radius: 2.8rem;
+                    width: 5.6rem;
+                    height: 5.6rem;
+                    position: absolute;
+                    left: 0;
+                    top: 4.75rem;
+                    background-color: #52c41a;
+                  }
+                  .frame-5-jXT {
+                    width: 3rem;
+                    height: 27.4rem;
+                    position: absolute;
+                    left: 1.3rem;
+                    display: flex;
+                    top: 0;
+                    row-gap: 3.1rem;
+                    align-items: center;
+                    flex-direction: column;
+
+                    .item-1-TiM {
+                      flex-shrink: 0;
+                      align-items: center;
+                      justify-content: center;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      display: flex;
+                      font-size: 2.4rem;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                    .item-8-bZf {
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      color: #1e1f25;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                    }
+                    .item-15-LGM {
+                      display: flex;
+                      font-size: 2.4rem;
+                      line-height: 1.2125;
+                      white-space: nowrap;
+                      align-items: center;
+                      justify-content: center;
+                      font-weight: 400;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                    }
+                    .item-22-sGH {
+                      font-size: 2.4rem;
+                      color: #cccccc;
+                      white-space: nowrap;
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                    }
+                    .item-29-Qn1 {
+                      display: flex;
+                      align-items: center;
+                      line-height: 1.2125;
+                      color: #cccccc;
+                      font-family: Inter, 'Source Sans Pro';
+                      flex-shrink: 0;
+                      justify-content: center;
+                      font-size: 2.4rem;
+                      font-weight: 400;
+                      white-space: nowrap;
+                    }
+                  }
+                }
+                .frame-6-9jb {
+                  margin-right: 3.2rem;
+                  height: 100%;
+                  row-gap: 3.1rem;
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+
+                  .item-2-hFK {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #cccccc;
+                    flex-shrink: 0;
+                  }
+                  .item-9-STo {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    flex-shrink: 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-16-BAV {
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    line-height: 1.2125;
+                    color: #cccccc;
+                    display: flex;
+                    font-weight: 400;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-23-KGh {
+                    line-height: 1.2125;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    display: flex;
+                    flex-shrink: 0;
+                  }
+                  .item-30-rXX {
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    flex-shrink: 0;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    line-height: 1.2125;
+                    display: flex;
+                    font-weight: 400;
+                    white-space: nowrap;
+                  }
+                }
+                .frame-7-PXT {
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  margin-right: 3rem;
+                  height: 100%;
+                  row-gap: 3.1rem;
+
+                  .item-3-jrD {
+                    display: flex;
+                    font-size: 2.4rem;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    align-items: center;
+                    justify-content: center;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-V4h {
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    align-items: center;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    flex-shrink: 0;
+                    display: flex;
+                    justify-content: center;
+                    line-height: 1.2125;
+                  }
+                  .item-17-dAu {
+                    display: flex;
+                    justify-content: center;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    align-items: center;
+                    font-size: 2.4rem;
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-24-NPP {
+                    display: flex;
+                    align-items: center;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    flex-shrink: 0;
+                    justify-content: center;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-31-pmB {
+                    color: #cccccc;
+                    flex-shrink: 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                }
+                .frame-8-mRX {
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  row-gap: 3.1rem;
+
+                  .item-4-81B {
+                    justify-content: center;
+                    font-family: Inter, 'Source Sans Pro';
+                    display: flex;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #cccccc;
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    align-items: center;
+                  }
+                  .item-11-U53 {
+                    justify-content: center;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    flex-shrink: 0;
+                    display: flex;
+                    align-items: center;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    font-size: 2.4rem;
+                    color: #cccccc;
+                  }
+                  .item-18-1Ks {
+                    line-height: 1.2125;
+                    font-family: Inter, 'Source Sans Pro';
+                    flex-shrink: 0;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    color: #cccccc;
+                    white-space: nowrap;
+                    display: flex;
+                  }
+                  .item-25-wjK {
+                    display: flex;
+                    line-height: 1.2125;
+                    flex-shrink: 0;
+                    white-space: nowrap;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 2.4rem;
+                    font-weight: 400;
+                    color: #cccccc;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                }
+              }
+            }
+          }
+        }
+        .image-23-TSm {
+          margin-top: 1.5rem;
+          width: 10rem;
+          height: 10rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .frame-90-zhb {
+        box-sizing: border-box;
+        overflow: hidden;
+        align-items: center;
+        display: flex;
+        background-color: #223355;
+        flex-shrink: 0;
+        padding: 2.7rem 41.3rem 2.7rem 2.5rem;
+        width: 100%;
+        height: 22.2rem;
+        position: relative;
+
+        .noted-8-november-webinar-briliant-KE5 {
+          flex-shrink: 0;
+          margin: 0rem 6.1rem 7.8rem 0rem;
+          max-width: 31.3rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #ffffff;
+          font-family: Inter, 'Source Sans Pro';
+
+          .noted-8-november-webinar-briliant-KE5-sub-0 {
+            font-size: 2.4rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #ffffff;
+            font-family: Irish Grover, 'Source Sans Pro';
+          }
+          .noted-8-november-webinar-briliant-KE5-sub-1 {
+          }
+          .noted-8-november-webinar-briliant-KE5-sub-2 {
+            font-size: 2.4rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #ffffff;
+            font-family: Jacques Francois, 'Source Sans Pro';
+          }
+        }
+        .image-27-LoP {
+          height: 2.8rem;
+          cursor: pointer;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 1.8rem;
+          width: 3.4rem;
+        }
+      }
+    }
+  }
+}

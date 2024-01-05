@@ -1,0 +1,898 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.hastag-mXB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  .component-6-variant2-WUm {
+    margin-bottom: 3.5rem;
+    width: 100%;
+    flex-shrink: 0;
+    background-color: #4682a9;
+    box-sizing: border-box;
+    padding: 1.4rem 1.7rem 0.6rem 5.3rem;
+    height: 13.2rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-6qdx-c21 {
+      margin: 1.4rem 5.8rem 0rem 0rem;
+      width: 6.5rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-ennz-8FF {
+        margin-bottom: 0.5rem;
+        width: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:3ca1b12fd5d3de42211f78bb83137f2f2c7657e1');
+        flex-shrink: 0;
+
+        .image-15-Ua1 {
+          vertical-align: top;
+          width: 6.5rem;
+          height: 6.4rem;
+          object-fit: cover;
+        }
+      }
+      .auto-group-nl4v-bPj {
+        margin: 0 0.2rem;
+        width: calc(100% - 0.4rem);
+        height: 2.5rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .profile-XHP {
+          line-height: 1.2125;
+          height: 2.5rem;
+          position: absolute;
+          top: 0;
+          font-weight: 400;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 6.1rem;
+          left: 0;
+          text-align: center;
+          font-size: 2rem;
+        }
+        .profile-pnH {
+          position: absolute;
+          font-family: Inter, 'Source Sans Pro';
+          font-weight: 400;
+          line-height: 1.2125;
+          width: 6.1rem;
+          height: 2.5rem;
+          left: 0;
+          top: 0;
+          text-align: center;
+          font-size: 2rem;
+          color: #000000;
+          white-space: nowrap;
+        }
+      }
+    }
+    .component-3-component-2-variant2-8ny {
+      flex-shrink: 0;
+      margin: 2.9rem 27.3rem 2.7rem 0rem;
+      box-sizing: border-box;
+      padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+      height: calc(100% - 5.6rem);
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+
+      .frame-Eb7 {
+        width: 2.2295rem;
+        height: 2.8565rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .auto-group-rfhf-Mfj {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .icon-taskbar-iWH {
+        flex-shrink: 0;
+        margin-bottom: 1.1625rem;
+        display: flex;
+        align-items: flex-end;
+
+        .icon-home-fAd {
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 3.9rem 0.9rem 0rem;
+        }
+        .icon-bell-N53 {
+          flex-shrink: 0;
+          margin: 0rem 4.2rem 0.038rem 0rem;
+          width: 6.9rem;
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .icon-briefcase-tJH {
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 2.691rem 0.438rem 0rem;
+          width: 6.9086rem;
+        }
+        .icon-people-byP {
+          height: 6.9rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 6.309rem 0.038rem 0rem;
+          width: 6.8914rem;
+        }
+        .icon-chat-io7 {
+          width: 6.9rem;
+          height: 6.0375rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .component-4-UGV {
+        margin-left: 0.35rem;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .home-Qvq {
+          flex-shrink: 0;
+          margin-right: 1.9rem;
+          text-align: center;
+          font-size: 2rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          font-weight: 400;
+          color: #000000;
+        }
+        .notifications-LZb {
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 400;
+          color: #000000;
+          margin-right: 2.8rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .jobs-sZX {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0.1rem 2.85rem 0rem 0rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          text-align: center;
+          font-size: 2rem;
+        }
+        .my-network-zu3 {
+          margin-right: 1.3rem;
+          font-size: 2rem;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          font-weight: 400;
+          line-height: 1.2125;
+          flex-shrink: 0;
+        }
+        .messaging-LCD {
+          text-align: center;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          flex-shrink: 0;
+          margin-top: 0.2rem;
+          font-size: 2rem;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+  .auto-group-4cwh-rAZ {
+    flex-shrink: 0;
+    margin-left: 5.9rem;
+    width: calc(100% - 5.9rem);
+    height: 85.7rem;
+    display: flex;
+    align-items: center;
+
+    .frame-2-PRP {
+      width: 40.9rem;
+      height: 100%;
+      align-items: center;
+      display: flex;
+      box-sizing: border-box;
+      padding-bottom: 48.4rem;
+      flex-direction: column;
+      background-color: #213555;
+      flex-shrink: 0;
+      overflow: hidden;
+      position: relative;
+
+      .auto-group-glht-iTf {
+        row-gap: 3.6rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 6.9rem 7.4rem 3.6rem 7.4rem;
+        width: 100%;
+
+        .koneksi-pmb {
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+        }
+        .followers-xN1 {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+        }
+        .acara-6DK {
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+        }
+        .hastag-SY5 {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.1199999809;
+          color: #ffffff;
+          font-family: Acme, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+        }
+      }
+      .auto-group-vohx-zZb {
+        box-sizing: border-box;
+        padding: 2.2rem 7.4rem 2.3rem 7.4rem;
+        width: 100%;
+        font-weight: 400;
+        line-height: 1.1199999809;
+        white-space: nowrap;
+        display: flex;
+        font-size: 2rem;
+        color: #000000;
+        font-family: Acme, 'Source Sans Pro';
+        background-color: #419197;
+        flex-shrink: 0;
+      }
+    }
+    .auto-group-5y5t-tQ5 {
+      display: flex;
+      column-gap: 6.7rem;
+      align-items: flex-start;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding-left: 7rem;
+      height: 100%;
+
+      .auto-group-j8g5-DhF {
+        width: 40rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-9ujf-mim {
+          width: 100%;
+          align-items: center;
+          display: flex;
+          border-radius: 1.5rem;
+          flex-shrink: 0;
+          margin-bottom: 3.7rem;
+          box-sizing: border-box;
+          padding-top: 3.5rem;
+          flex-direction: column;
+          background-color: #419197;
+
+          .auto-group-ibnm-v5s {
+            padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+            width: calc(100% - 4.8rem);
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.7rem 2.5rem;
+            box-sizing: border-box;
+
+            .vector-pww {
+              height: 9.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 9.1rem;
+            }
+          }
+          .auto-group-zxhx-9DX {
+            height: 15rem;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.2rem 2.3rem 1.5rem 2.5rem;
+            width: 100%;
+
+            .group-20-sfK {
+              border-radius: 0.5rem;
+              width: 100%;
+              height: 100%;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+
+              .auto-group-vbn5-2o7 {
+                flex-direction: column;
+                flex-shrink: 0;
+                box-sizing: border-box;
+                padding: 0.1rem 0rem 2.45rem 0rem;
+                width: 100%;
+                display: flex;
+
+                .anne-mariee-AuK {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 2.5rem;
+                  font-weight: 400;
+                  line-height: 0.7680000305;
+                  color: #ffffff;
+                  margin-bottom: 0.95rem;
+                  display: flex;
+                  font-family: Aoboshi One, 'Source Sans Pro';
+                }
+                .student-at-universitas-airlangga-majoring-in-informatics-enginering-gcm {
+                  font-weight: 400;
+                  line-height: 1.2800000509;
+                  color: #ffffff;
+                  font-family: Aoboshi One, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  max-width: 25rem;
+                  display: flex;
+                  font-size: 1.5rem;
+                }
+              }
+              .auto-group-bf7j-PGH {
+                white-space: nowrap;
+                align-items: center;
+                box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+                background-color: #419197;
+                justify-content: center;
+                flex-shrink: 0;
+                font-weight: 800;
+                line-height: 1.4933333079;
+                font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+                border-radius: 0.5rem;
+                width: 100%;
+                height: 2.9rem;
+                display: flex;
+                font-size: 1.5rem;
+                color: #111111;
+              }
+            }
+          }
+        }
+        .auto-group-xyxq-Pfb {
+          background-color: #419197;
+          border-radius: 1.5rem;
+          box-sizing: border-box;
+          align-items: center;
+          flex-direction: column;
+          flex-shrink: 0;
+          padding-top: 3.5rem;
+          width: 100%;
+          display: flex;
+
+          .auto-group-7g6z-wBK {
+            height: 18.1rem;
+            position: relative;
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.4rem 2.4rem;
+            width: calc(100% - 4.7rem);
+
+            .rectangle-196-rZB {
+              background-color: #d9d9d9;
+              width: 35.2rem;
+              height: 17.8rem;
+              position: absolute;
+              left: 0.1rem;
+              top: 0;
+            }
+            .screenshot-187-1-PJD {
+              top: 0;
+              object-fit: cover;
+              vertical-align: top;
+              width: 35.3rem;
+              height: 18.1rem;
+              position: absolute;
+              left: 0;
+            }
+            .vector-Wtd {
+              left: 13rem;
+              top: 4.3rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 9.1rem;
+              height: 9.1rem;
+              position: absolute;
+            }
+          }
+          .auto-group-3cah-qg1 {
+            padding: 1.5rem 2.3rem 1.3rem 2.5rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+
+            .ava-garcia-y1X {
+              margin-bottom: 0.95rem;
+              display: flex;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              font-size: 2.5rem;
+              font-weight: 400;
+              line-height: 0.7680000305;
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .student-at-summit-universitymajoring-in-cognitive-science-J3o {
+              margin-bottom: 2.45rem;
+              display: flex;
+              font-weight: 400;
+              line-height: 1.2800000509;
+              flex-shrink: 0;
+              max-width: 21.8rem;
+              font-size: 1.5rem;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+            }
+            .auto-group-3w2v-Pb3 {
+              line-height: 1.4933333079;
+              background-color: #d9d9d9;
+              height: 2.9rem;
+              display: flex;
+              justify-content: center;
+              border-radius: 0.5rem;
+              font-weight: 800;
+              color: #111111;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              white-space: nowrap;
+              align-items: center;
+              flex-shrink: 0;
+              width: 100%;
+              font-size: 1.5rem;
+            }
+          }
+        }
+      }
+      .auto-group-yld3-E5s {
+        width: 40rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-dgku-x1s {
+          align-items: center;
+          display: flex;
+          background-color: #419197;
+          border-radius: 1.5rem;
+          flex-shrink: 0;
+          margin-bottom: 3.7rem;
+          padding-top: 3.5rem;
+          width: 100%;
+          box-sizing: border-box;
+          flex-direction: column;
+
+          .auto-group-d9ju-gyT {
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin: 0rem 2.3rem 3.7rem 2.5rem;
+            box-sizing: border-box;
+            padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+            width: calc(100% - 4.8rem);
+
+            .vector-zjF {
+              vertical-align: top;
+              width: 9.1rem;
+              height: 9.1rem;
+              object-fit: contain;
+            }
+          }
+          .auto-group-ygjq-jRw {
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.3rem 2.3rem 1.5rem 2.5rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            background-color: #12486b;
+
+            .carlos-chris-Fv5 {
+              margin-bottom: 0.95rem;
+              display: flex;
+              font-size: 2.5rem;
+              line-height: 0.7680000305;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              font-weight: 400;
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .student-at-nanyang-university-majoring-in-informatic-system-bDF {
+              margin-bottom: 2.45rem;
+              display: flex;
+              font-size: 1.5rem;
+              font-weight: 400;
+              max-width: 22.3rem;
+              line-height: 1.2800000509;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .auto-group-7ouf-hGH {
+              font-size: 1.5rem;
+              line-height: 1.4933333079;
+              color: #111111;
+              justify-content: center;
+              font-weight: 800;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              display: flex;
+              background-color: #d9d9d9;
+              border-radius: 0.5rem;
+              flex-shrink: 0;
+              width: 100%;
+              height: 2.9rem;
+              white-space: nowrap;
+              align-items: center;
+            }
+          }
+        }
+        .auto-group-vejf-YXo {
+          padding-top: 3.5rem;
+          width: 100%;
+          align-items: center;
+          background-color: #419197;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          border-radius: 1.5rem;
+
+          .auto-group-qw8h-GTo {
+            margin: 0rem 2.3rem 3.2rem 2.5rem;
+            width: calc(100% - 4.8rem);
+            height: 18.3rem;
+            position: relative;
+            flex-shrink: 0;
+
+            .rectangle-201-QTX {
+              width: 35.2rem;
+              height: 17.8rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #d9d9d9;
+            }
+            .download-1-1-YZj {
+              height: 18.3rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              object-fit: cover;
+              vertical-align: top;
+              width: 35.2rem;
+            }
+            .vector-UyB {
+              vertical-align: top;
+              width: 9.1rem;
+              height: 9.1rem;
+              position: absolute;
+              left: 12.9rem;
+              top: 4.5rem;
+              object-fit: contain;
+            }
+          }
+          .auto-group-eeop-DA5 {
+            display: flex;
+            flex-direction: column;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.5rem 2.3rem 1.3rem 2.5rem;
+            width: 100%;
+
+            .noah-thomas-wbs {
+              font-weight: 400;
+              line-height: 0.7680000305;
+              color: #ffffff;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 2.5rem;
+            }
+            .student-at-horizon-institutemajoring-in-renewable-energy-engineering-5i5 {
+              line-height: 1.2800000509;
+              color: #ffffff;
+              flex-shrink: 0;
+              font-weight: 400;
+              font-family: Aoboshi One, 'Source Sans Pro';
+              margin-bottom: 1.5rem;
+              max-width: 22.2rem;
+              display: flex;
+              font-size: 1.5rem;
+            }
+            .auto-group-lbcq-Nx5 {
+              font-size: 1.5rem;
+              color: #111111;
+              justify-content: center;
+              background-color: #d9d9d9;
+              height: 2.9rem;
+              line-height: 1.4933333079;
+              font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+              white-space: nowrap;
+              width: 100%;
+              font-weight: 800;
+              align-items: center;
+              border-radius: 0.5rem;
+              flex-shrink: 0;
+              display: flex;
+            }
+          }
+        }
+      }
+      .auto-group-ezub-SBF {
+        width: 53.3rem;
+        flex-shrink: 0;
+
+        .auto-group-1amb-aoF {
+          margin-bottom: 3.7rem;
+          width: 100%;
+          height: 40rem;
+          position: relative;
+          background-color: #419197;
+          border-radius: 1.5rem;
+
+          .rectangle-188-KF3 {
+            top: 25rem;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            width: 40rem;
+            height: 15rem;
+            position: absolute;
+            left: 0;
+          }
+          .rectangle-191-e2R {
+            background-color: #d9d9d9;
+            width: 35.2rem;
+            height: 17.8rem;
+            position: absolute;
+            left: 2.5rem;
+            top: 3.5rem;
+          }
+          .ba35f46176ae0d72daace797ede-1-B2M {
+            width: 35.2rem;
+            height: 17.8rem;
+            position: absolute;
+            left: 2.7rem;
+            top: 3.5rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+          .vector-VYq {
+            object-fit: contain;
+            vertical-align: top;
+            width: 9.1rem;
+            height: 9.1rem;
+            position: absolute;
+            left: 15.8rem;
+            top: 7.8rem;
+          }
+          .rectangle-211-duw {
+            width: 35.2rem;
+            height: 2.9rem;
+            position: absolute;
+            left: 2.6rem;
+            top: 35.6rem;
+            background-color: #d9d9d9;
+            border-radius: 0.5rem;
+          }
+          .olivia-smith-a4V {
+            top: 26.3rem;
+            display: flex;
+            font-size: 2.5rem;
+            font-weight: 400;
+            color: #ffffff;
+            height: 2rem;
+            position: absolute;
+            left: 2.6rem;
+            white-space: nowrap;
+            width: 15rem;
+            line-height: 0.7680000305;
+            font-family: Aoboshi One, 'Source Sans Pro';
+          }
+          .student-at-oceanview-universitymajoring-in-sustainable-development-Gxu {
+            position: absolute;
+            top: 30.2rem;
+            font-size: 1.5rem;
+            font-weight: 400;
+            line-height: 1.2800000509;
+            color: #ffffff;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 50.7rem;
+            height: 2rem;
+            left: 2.6rem;
+            display: flex;
+          }
+          .accept-Zh7 {
+            height: 2.3rem;
+            display: flex;
+            font-size: 1.5rem;
+            font-weight: 800;
+            line-height: 1.4933333079;
+            width: 4.5rem;
+            position: absolute;
+            left: 18.1rem;
+            top: 35.95rem;
+            color: #111111;
+            font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .auto-group-jq2d-sC1 {
+          margin-left: 0.1rem;
+          width: 47rem;
+          height: 40rem;
+          position: relative;
+          background-color: #419197;
+          border-radius: 1.5rem;
+
+          .rectangle-203-npm {
+            top: 25rem;
+            background-color: #12486b;
+            border-radius: 0 0 1.5rem 1.5rem;
+            width: 40rem;
+            height: 15rem;
+            position: absolute;
+            left: 0;
+          }
+          .rectangle-206-Kph {
+            position: absolute;
+            left: 2.5rem;
+            top: 3.5rem;
+            background-color: #d9d9d9;
+            width: 35.2rem;
+            height: 17.8rem;
+          }
+          .download-3-rpd {
+            object-fit: cover;
+            vertical-align: top;
+            width: 35rem;
+            height: 18.3rem;
+            position: absolute;
+            left: 2.6rem;
+            top: 3.5rem;
+          }
+          .vector-CNh {
+            left: 15.8rem;
+            top: 7.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 9.1rem;
+            height: 9.1rem;
+            position: absolute;
+          }
+          .rectangle-210-933 {
+            width: 35.2rem;
+            height: 2.9rem;
+            position: absolute;
+            left: 2.5rem;
+            top: 35.8rem;
+            background-color: #d9d9d9;
+            border-radius: 0.5rem;
+          }
+          .mia-martinez-5Bb {
+            display: flex;
+            font-size: 2.5rem;
+            font-weight: 400;
+            line-height: 0.7680000305;
+            font-family: Aoboshi One, 'Source Sans Pro';
+            width: 16.2rem;
+            top: 26.5rem;
+            left: 2.5rem;
+            color: #ffffff;
+            white-space: nowrap;
+            height: 2rem;
+            position: absolute;
+          }
+          .student-at-crestline-collegemajoring-in-virtual-reality-design-o7b {
+            font-weight: 400;
+            display: flex;
+            height: 2rem;
+            position: absolute;
+            left: 2.5rem;
+            top: 30.4rem;
+            font-size: 1.5rem;
+            line-height: 1.2800000509;
+            color: #ffffff;
+            width: 44.5rem;
+            white-space: nowrap;
+            font-family: Aoboshi One, 'Source Sans Pro';
+          }
+          .accept-teq {
+            font-weight: 800;
+            width: 4.5rem;
+            left: 18rem;
+            top: 36.05rem;
+            font-size: 1.5rem;
+            line-height: 1.4933333079;
+            color: #111111;
+            font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+            white-space: nowrap;
+            height: 2.3rem;
+            position: absolute;
+            display: flex;
+          }
+        }
+      }
+    }
+  }
+}

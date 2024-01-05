@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-L7X {
+  box-sizing: border-box;
+  padding-bottom: 25rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.login-L7X .rectangle-130-ee1 {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf {
+  box-sizing: border-box;
+  padding: 12.5rem 9.8rem 15.5rem 12rem;
+  width: 100%;
+  height: 60rem;
+  display: flex;
+  align-items: center;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf .auto-group-ixzu-6F7 {
+  margin: 8.3rem 16.9rem 10.75rem 0rem;
+  height: calc(100% - 19.05rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf .auto-group-ixzu-6F7 .jobsearch-pB7 {
+  margin-bottom: 8.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15rem;
+  font-weight: 400;
+  line-height: 0.1280000051;
+  color: #ffffff;
+  font-family: Birthstone Bounce, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf .auto-group-ixzu-6F7 .website-mencari-pekerjaan-j3B {
+  margin-right: 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.6400000254;
+  color: #ffffff;
+  font-family: Arya, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF {
+  box-sizing: border-box;
+  padding: 3.4rem 2.5rem 4.6rem 2.5rem;
+  width: 50rem;
+  height: 100%;
+  background-color: #4682a9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .welcome-kys {
+  margin-bottom: 1.35rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.9600000381;
+  color: #000000;
+  font-family: Arya, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .username-email-gcd {
+  margin-bottom: 0.35rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .rectangle-134-D6m {
+  margin-bottom: 0.45rem;
+  width: 100%;
+  height: 4rem;
+  cursor: pointer;
+  border: solid 0.2rem #fbeeac;
+  box-sizing: border-box;
+  background-color: #4682a9;
+  border-radius: 0.5rem;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-ytys-KQh {
+  margin-bottom: 0.55rem;
+  width: 5.6rem;
+  height: 2rem;
+  position: relative;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-ytys-KQh .password-rQd {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-ytys-KQh .password-xTf {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .rectangle-135-US1 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 4rem;
+  border: solid 0.2rem #fbeeac;
+  box-sizing: border-box;
+  background-color: #4682a9;
+  border-radius: 0.5rem;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-gzgd-1B3 {
+  width: 100%;
+  height: 6.9rem;
+  position: relative;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-gzgd-1B3 .rectangle-136-wqP {
+  width: 45rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  background-color: #fbeeac;
+  border-radius: 0.5rem;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-gzgd-1B3 .login-Gsf {
+  width: 5.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 3.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.1294118096;
+  color: #000000;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-gzgd-1B3 .register-Ay3 {
+  width: 4.7rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 16.45rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6000000636;
+  color: #000000;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-L7X .auto-group-qblz-aXf .group-14-duF .auto-group-gzgd-1B3 .dont-have-an-account-yet-UD3 {
+  width: 15.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.25rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #000000;
+  font-family: Amiri, 'Source Sans Pro';
+  white-space: nowrap;
+}

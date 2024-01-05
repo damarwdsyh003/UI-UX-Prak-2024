@@ -1,0 +1,1104 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.hastag-YmK {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.hastag-YmK .component-6-variant2-uLy {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.7rem 0.6rem 5.3rem;
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP {
+  margin: 1.4rem 5.8rem 0rem 0rem;
+  width: 6.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP .auto-group-sllu-8zR {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-2-bg-fK3.png');
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP .auto-group-sllu-8zR .image-15-VKB {
+  width: 6.5rem;
+  height: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP .auto-group-zhbt-CzH {
+  margin: 0 0.2rem;
+  width: calc(100% - 0.4rem);
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP .auto-group-zhbt-CzH .profile-YoF {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-pqi9-cFP .auto-group-zhbt-CzH .profile-TQR {
+  width: 6.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .component-6-variant2-uLy .component-3-component-2-variant2-xry {
+  margin: 2.9rem 27.3rem 2.7rem 0rem;
+  box-sizing: border-box;
+  padding: 1.341rem 1.571rem 1.403rem 40.4rem;
+  height: calc(100% - 5.6rem);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .component-3-component-2-variant2-xry .frame-Toj {
+  width: 2.2295rem;
+  height: 2.8565rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 {
+  margin-bottom: 1.1625rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 .icon-home-7NV {
+  margin: 0rem 3.9rem 0.9rem 0rem;
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 .icon-bell-DAd {
+  margin: 0rem 4.2rem 0.038rem 0rem;
+  width: 6.9rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 .icon-briefcase-8oP {
+  margin: 0rem 2.691rem 0.438rem 0rem;
+  width: 6.9086rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 .icon-people-4S9 {
+  margin: 0rem 6.309rem 0.038rem 0rem;
+  width: 6.8914rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .icon-taskbar-Mu7 .icon-chat-zKo {
+  width: 6.9rem;
+  height: 6.0375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 {
+  margin-left: 0.35rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 .home-5MF {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 .notifications-1Eu {
+  margin-right: 2.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 .jobs-YVj {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 .my-network-4U5 {
+  margin-right: 1.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .component-6-variant2-uLy .auto-group-c1t3-oMo .component-4-8S1 .messaging-zsX {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m {
+  margin-left: 5.9rem;
+  width: calc(100% - 5.9rem);
+  height: 85.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj {
+  box-sizing: border-box;
+  padding-bottom: 48.6rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-xsk5-zm3 {
+  box-sizing: border-box;
+  padding: 6.9rem 7.4rem 3.4rem 7.4rem;
+  width: 100%;
+  row-gap: 3.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-xsk5-zm3 .koneksi-Jmj {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-xsk5-zm3 .followers-qmf {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-xsk5-zm3 .acara-P2V {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-xsk5-zm3 .hastag-iqT {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .frame-2-ruj .auto-group-pk9f-g1b {
+  box-sizing: border-box;
+  padding: 2.4rem 7.4rem 2.1rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB {
+  box-sizing: border-box;
+  padding-left: 7rem;
+  height: 100%;
+  display: flex;
+  column-gap: 6.7rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 {
+  width: 40rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 {
+  margin-bottom: 3.7rem;
+  box-sizing: border-box;
+  padding-top: 3.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #419197;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-5zff-CPF {
+  margin: 0rem 2.3rem 3.7rem 2.5rem;
+  box-sizing: border-box;
+  padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+  width: calc(100% - 4.8rem);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-5zff-CPF .vector-JhB {
+  width: 9.1rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM {
+  box-sizing: border-box;
+  padding: 1.2rem 2.3rem 1.5rem 2.5rem;
+  width: 100%;
+  height: 15rem;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM .group-20-Lds {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM .group-20-Lds .auto-group-8bzd-JKo {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 2.45rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM .group-20-Lds .auto-group-8bzd-JKo .anne-mariee-32V {
+  margin-bottom: 0.95rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM .group-20-Lds .auto-group-8bzd-JKo .student-at-universitas-airlangga-majoring-in-informatics-enginering-mDP {
+  max-width: 25rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-vhg9-4H3 .auto-group-58mt-DJM .group-20-Lds .auto-group-uthw-4yB {
+  width: 100%;
+  height: 2.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP {
+  width: 100%;
+  height: 40rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .group-23-FXs {
+  width: 35.2rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 26.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .group-23-FXs .auto-group-n9ch-P8H {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 2.45rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .group-23-FXs .auto-group-n9ch-P8H .billie-tam-85s {
+  margin-bottom: 0.95rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .group-23-FXs .auto-group-n9ch-P8H .student-at-universitas-airlangga-majoring-in-data-science-T89 {
+  max-width: 23.6rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .group-23-FXs .auto-group-ucym-NF7 {
+  width: 100%;
+  height: 2.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .rectangle-192-eyK {
+  width: 40rem;
+  height: 40rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #419197;
+  border-radius: 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .rectangle-193-z1b {
+  width: 40rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 25rem;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .rectangle-196-hwb {
+  width: 35.2rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.5rem;
+  background-color: #d9d9d9;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .screenshot-187-1-eM3 {
+  width: 35.3rem;
+  height: 18.1rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .vector-ZD7 {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 7.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .rectangle-208-tmB {
+  width: 35.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 35.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .ava-garcia-1au {
+  width: 13.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 26.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .student-at-summit-universitymajoring-in-cognitive-science-hid {
+  width: 21.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 29.45rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-2mpb-uQ9 .auto-group-falm-WKP .accept-itd {
+  width: 4.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 36.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d {
+  width: 40rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm {
+  margin-bottom: 3.7rem;
+  box-sizing: border-box;
+  padding-top: 3.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #419197;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-gtzq-7fs {
+  margin: 0rem 2.3rem 3.7rem 2.5rem;
+  box-sizing: border-box;
+  padding: 4.3rem 13.2rem 4.4rem 12.9rem;
+  width: calc(100% - 4.8rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-gtzq-7fs .vector-paH {
+  width: 9.1rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-aq9p-kiq {
+  box-sizing: border-box;
+  padding: 1.3rem 2.3rem 1.5rem 2.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-aq9p-kiq .carlos-chris-VAd {
+  margin-bottom: 0.95rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-aq9p-kiq .student-at-nanyang-university-majoring-in-informatic-system-1uf {
+  margin-bottom: 2.45rem;
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-ae9b-yJm .auto-group-aq9p-kiq .auto-group-d9vm-ip5 {
+  width: 100%;
+  height: 2.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X {
+  width: 100%;
+  height: 40rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .group-21-8N1 {
+  width: 35.2rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 26.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .group-21-8N1 .auto-group-maeh-4WZ {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 2.45rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .group-21-8N1 .auto-group-maeh-4WZ .nathan-ed-C6y {
+  margin-bottom: 0.95rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .group-21-8N1 .auto-group-maeh-4WZ .student-at-oxford-university-majoring-in-informatics-enginering-KhP {
+  max-width: 25rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .group-21-8N1 .auto-group-iqsd-SX7 {
+  width: 100%;
+  height: 2.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .rectangle-197-8uj {
+  width: 40rem;
+  height: 40rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #419197;
+  border-radius: 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .rectangle-198-Uyb {
+  width: 40rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 25rem;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .rectangle-201-oFB {
+  width: 35.2rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.5rem;
+  background-color: #d9d9d9;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .download-1-1-YCm {
+  width: 35.2rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .vector-fYH {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .rectangle-209-1MF {
+  width: 35.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 35.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .noah-thomas-Kcq {
+  width: 16.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 26.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .student-at-horizon-institutemajoring-in-renewable-energy-engineering-ddX {
+  width: 22.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 28.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-hihj-28d .auto-group-kpkk-P9X .accept-vMj {
+  width: 4.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 36.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q {
+  width: 53.3rem;
+  flex-shrink: 0;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 {
+  margin-bottom: 3.7rem;
+  width: 100%;
+  height: 40rem;
+  position: relative;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .rectangle-211-X6d {
+  width: 35.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 35.6rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .accept-3am {
+  width: 4.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 18rem;
+  top: 35.95rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .susan-brown-ZZ7 {
+  width: 15.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 26.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .student-at-oxford-university-majoring-in-data-science-s41 {
+  width: 38.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 30.2rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .rectangle-187-xbF {
+  width: 40rem;
+  height: 40rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #419197;
+  border-radius: 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .rectangle-188-uFb {
+  width: 40rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 25rem;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .rectangle-191-2b7 {
+  width: 35.2rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.5rem;
+  background-color: #d9d9d9;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .ba35f46176ae0d72daace797ede-1-yWM {
+  width: 35.2rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .vector-6ay {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 7.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .rectangle-212-SPw {
+  width: 35.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 35.6rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .olivia-smith-y8y {
+  width: 15rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 26.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .student-at-oceanview-universitymajoring-in-sustainable-development-HQZ {
+  width: 50.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 30.2rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-bhps-Pm7 .accept-nMK {
+  width: 4.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 35.95rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m {
+  margin-left: 0.1rem;
+  width: 48.3rem;
+  height: 40rem;
+  position: relative;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .group-22-1Uy {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 45.9rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 26.3rem;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .group-22-1Uy .sasha-song-ieH {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .group-22-1Uy .student-at-university-of-bordeaux-majoring-in-computer-science-Fu7 {
+  margin-bottom: 3.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .group-22-1Uy .auto-group-zaay-agV {
+  width: 35.2rem;
+  height: 2.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .rectangle-202-fxq {
+  width: 40rem;
+  height: 40rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #419197;
+  border-radius: 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .rectangle-203-RBK {
+  width: 40rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 25rem;
+  background-color: #12486b;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .rectangle-206-Ymj {
+  width: 35.2rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.5rem;
+  background-color: #d9d9d9;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .download-3-VS5 {
+  width: 35rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .vector-ztd {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 7.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .rectangle-210-Xdf {
+  width: 35.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 35.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .mia-martinez-TnD {
+  width: 16.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 26.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.7680000305;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .student-at-crestline-collegemajoring-in-virtual-reality-design-NeH {
+  width: 44.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 30.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hastag-YmK .auto-group-awnd-X6m .auto-group-abkh-ZbB .auto-group-dy4z-e2q .auto-group-nijy-J4m .accept-Tvd {
+  width: 4.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 18rem;
+  top: 36.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.4933333079;
+  color: #111111;
+  font-family: Abhaya Libre ExtraBold, 'Source Sans Pro';
+  white-space: nowrap;
+}

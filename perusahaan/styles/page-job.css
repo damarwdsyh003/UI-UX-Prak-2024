@@ -1,0 +1,208 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.page-job-w6d {
+  box-sizing: border-box;
+  padding-bottom: 10.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.page-job-w6d .rectangle-130-rzH {
+  margin-bottom: 10.1rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.page-job-w6d .post-job-bgy {
+  margin: 0 39.5rem;
+  width: calc(100% - 79rem);
+  height: 71.4rem;
+  position: relative;
+  background-color: #4682a9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.page-job-w6d .post-job-bgy .group-18-Kcy {
+  width: 18rem;
+  height: 5rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 61.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #213555;
+  border-radius: 0.8rem;
+}
+.page-job-w6d .post-job-bgy .post-a-job-ySd {
+  width: 22.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 2.4rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .auto-group-6yhb-5kZ {
+  width: 55.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 12.3rem;
+}
+.page-job-w6d .post-job-bgy .auto-group-6yhb-5kZ .job-title--ckV {
+  width: 9.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .auto-group-6yhb-5kZ .rectangle-210-LwP {
+  width: 55.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  background-color: #ffffff;
+}
+.page-job-w6d .post-job-bgy .auto-group-6yhb-5kZ .mandor-UXo {
+  width: 10.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .auto-group-6yhb-5kZ .rectangle-228-aqj {
+  width: 14.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  background-color: #ffffff;
+}
+.page-job-w6d .post-job-bgy .company--7qf {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 19.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .rectangle-211-qFs {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 21.7rem;
+  background-color: #ffffff;
+}
+.page-job-w6d .post-job-bgy .job-location--ZxZ {
+  width: 13.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 25.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .rectangle-212-5R7 {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 28.5rem;
+  background-color: #ffffff;
+}
+.page-job-w6d .post-job-bgy .jobdesk--DXK {
+  width: 9.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 32.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .rectangle-213-LM3 {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 35.3rem;
+  background-color: #ffffff;
+}
+.page-job-w6d .post-job-bgy .description--UTF {
+  width: 12.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 39.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-w6d .post-job-bgy .rectangle-211-oEd {
+  width: 55.3rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 42.1rem;
+  background-color: #ffffff;
+}

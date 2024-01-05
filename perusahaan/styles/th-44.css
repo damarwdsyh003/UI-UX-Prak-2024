@@ -1,0 +1,24 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 43.2rem;
+}.th-44-pd3 {
+  width: 43.2rem;
+  height: 7.5rem;
+  position: relative;
+  background-size: 132.064% 189.157%;
+  background-position: -6.6172rem -3.3434rem;
+  background-image: url('../assets/th-44.png');
+}

@@ -1,0 +1,71 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.starting-page-wty {
+  box-sizing: border-box;
+  padding-bottom: 25rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.starting-page-wty .rectangle-130-gLm {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.starting-page-wty .auto-group-cogh-2Qd {
+  box-sizing: border-box;
+  padding: 23.65rem 27.7rem 15.45rem 27.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.starting-page-wty .auto-group-cogh-2Qd .jobsearch-wXb {
+  margin-bottom: 16.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24rem;
+  font-weight: 400;
+  line-height: 0.0800000032;
+  color: #ffffff;
+  font-family: Birthstone Bounce, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.starting-page-wty .auto-group-cogh-2Qd .website-mencari-pekerjaan-fCh {
+  margin-right: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.4800000191;
+  color: #ffffff;
+  font-family: Arya, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

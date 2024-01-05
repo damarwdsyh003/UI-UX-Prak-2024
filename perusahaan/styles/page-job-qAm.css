@@ -1,0 +1,301 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.page-job-3yX {
+  box-sizing: border-box;
+  padding-bottom: 10.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.page-job-3yX .rectangle-130-bk9 {
+  margin-bottom: 10.1rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #4682a9;
+  flex-shrink: 0;
+}
+.page-job-3yX .post-job-k7F {
+  margin: 0 39.5rem;
+  width: calc(100% - 79rem);
+  height: 71.4rem;
+  position: relative;
+  background-color: #4682a9;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.page-job-3yX .post-job-k7F .group-18-GLV {
+  width: 18rem;
+  height: 5rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 61.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #213555;
+  border-radius: 0.8rem;
+}
+.page-job-3yX .post-job-k7F .post-a-job-iiH {
+  width: 22.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 2.4rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy {
+  width: 55.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 12.3rem;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy .job-title-xcd {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy .rectangle-210-goX {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy .mandor-dCy {
+  width: 10.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy .rectangle-229-jmo {
+  width: 2.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.page-job-3yX .post-job-k7F .auto-group-dzgu-2iy .job-title--UjP {
+  width: 9.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-3skh-oWm {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 19.1rem;
+}
+.page-job-3yX .post-job-k7F .auto-group-3skh-oWm .company-wcy {
+  width: 9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-3skh-oWm .company--4Bo {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .rectangle-211-NiH {
+  width: 55.3rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 4.8rem;
+  top: 21.7rem;
+  background-color: #ffffff;
+}
+.page-job-3yX .post-job-k7F .auto-group-wd3s-uiD {
+  width: 13.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 25.9rem;
+}
+.page-job-3yX .post-job-k7F .auto-group-wd3s-uiD .job-location-eA1 {
+  width: 12.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-wd3s-uiD .job-location--N61 {
+  width: 13.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .rectangle-212-Him {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 28.5rem;
+  background-color: #ffffff;
+}
+.page-job-3yX .post-job-k7F .auto-group-wwvf-2RT {
+  width: 9.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 32.7rem;
+}
+.page-job-3yX .post-job-k7F .auto-group-wwvf-2RT .jobdesk-AnZ {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-wwvf-2RT .jobdesk--hnV {
+  width: 9.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .rectangle-213-EXX {
+  width: 55.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 35.3rem;
+  background-color: #ffffff;
+}
+.page-job-3yX .post-job-k7F .auto-group-pta1-ARB {
+  width: 12.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 39.5rem;
+}
+.page-job-3yX .post-job-k7F .auto-group-pta1-ARB .description-JXP {
+  width: 10.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .auto-group-pta1-ARB .description--qGR {
+  width: 12.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.page-job-3yX .post-job-k7F .rectangle-211-9Y1 {
+  width: 55.3rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 42.1rem;
+  background-color: #ffffff;
+}

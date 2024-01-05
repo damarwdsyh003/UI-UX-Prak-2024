@@ -1,0 +1,796 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.acara-6rR {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #4682a9;
+}
+.acara-6rR .auto-group-2ftq-2zy {
+  margin: 0rem 2.8rem 0.2rem 0rem;
+  width: 11.2rem;
+  height: 102.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .frame-2-juP {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 5.3rem 0rem 62.7rem 0rem;
+  width: 40.9rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.acara-6rR .frame-2-juP .auto-group-ddd7-Fcq {
+  box-sizing: border-box;
+  padding: 2rem 7.4rem 1.6rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.acara-6rR .frame-2-juP .auto-group-9b49-iFX {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #ffffff;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #419197;
+  background-color: #213555;
+  flex-shrink: 0;
+}
+.acara-6rR .frame-2-juP .auto-group-w9rm-Q8M {
+  box-sizing: border-box;
+  padding: 1.6rem 7.4rem 2rem 7.4rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1199999809;
+  color: #000000;
+  font-family: Acme, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #419197;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 {
+  width: 84.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .auto-group-ax2z-dWu {
+  margin: 0rem 2.6rem 7.3rem 63.75rem;
+  width: calc(100% - 66.35rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .auto-group-ax2z-dWu .welcome-dilla-kLd {
+  margin-right: 1.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Aoboshi One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .auto-group-ax2z-dWu .vector-4cD {
+  width: 5.7rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f {
+  box-sizing: border-box;
+  padding-top: 6.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu {
+  margin: 0rem 1rem 4.3rem 2.1rem;
+  width: calc(100% - 3.1rem);
+  height: 53.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .image-24-fM7 {
+  margin: 0.1rem 4.7rem 0rem 0rem;
+  width: 10rem;
+  height: 10rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw {
+  margin-right: 4.6373rem;
+  box-sizing: border-box;
+  padding: 5.55rem 5.6rem;
+  width: 52.1627rem;
+  height: 100%;
+  background-color: #213555;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .title-TXs {
+  margin-bottom: 5.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .title-TXs .previous-cQm {
+  margin-right: 12.2186rem;
+  width: 2.2627rem;
+  height: 2.2627rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .title-TXs .november-YpD {
+  margin-right: 12.2186rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .title-TXs .next-53T {
+  width: 2.2627rem;
+  height: 2.2627rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh {
+  margin-right: 0.0627rem;
+  width: 40.9rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .mo-VN5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .tu-Dos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .we-Mv5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .th-hU9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .fr-SwX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .sa-BPK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .frame-9-A4u .su-w7b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT {
+  margin-right: 0.0314rem;
+  height: 27.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX {
+  box-sizing: border-box;
+  padding: 6.1rem 2.1rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-2-wmo {
+  margin-right: 3.2rem;
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-2-wmo .item-5-Ham {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-2-wmo .item-12-RBB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-2-wmo .item-19-9cy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-2-wmo .item-26-5mX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-3-DMw {
+  margin-right: 3.7rem;
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-3-DMw .item-6-Zgh {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-3-DMw .item-13-6gd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-3-DMw .item-20-dgZ {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-3-DMw .item-27-yVX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-4-7bj {
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-4-7bj .item-7-GDj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-4-7bj .item-14-1BK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-4-7bj .item-21-jND {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .auto-group-tlxd-cjX .frame-4-7bj .item-28-Gd3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM {
+  margin-right: 1.7rem;
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: 5.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ {
+  width: 100%;
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ .item-1-VVo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ .item-8-31X {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ .item-15-yA5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ .item-22-i7f {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .group-1-QUM .frame-5-YaZ .item-29-TL9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm {
+  margin-right: 3.2rem;
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm .item-2-Jbf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm .item-9-FG1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm .item-16-nFw {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm .item-23-XDX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-6-aQm .item-30-GB7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf {
+  margin-right: 3rem;
+  height: 100%;
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf .item-3-wY9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf .item-10-Hc1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf .item-17-2pV {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf .item-24-Avh {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-7-CKf .item-31-hvd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-8-dpH {
+  row-gap: 3.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-8-dpH .item-4-zPw {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-8-dpH .item-11-LTo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-8-dpH .item-18-Ua1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .kalender-acara-muw .frame-10-uFT .dates-1xh .auto-group-dsrq-HBT .frame-8-dpH .item-25-1Zw {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cccccc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .auto-group-es9x-wvu .image-23-ijF {
+  margin-top: 0.1rem;
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .frame-90-TRw {
+  box-sizing: border-box;
+  padding: 2.7rem 2.5rem;
+  width: 100%;
+  height: 22.2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  background-color: #223355;
+  flex-shrink: 0;
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .frame-90-TRw .frame-90-TRw-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+}
+.acara-6rR .auto-group-ycp5-HT3 .frame-89-11f .frame-90-TRw .frame-90-TRw-sub-1 {
+}
